@@ -1,0 +1,4134 @@
+{
+  "generated_at": "2026-04-06T18:05:35Z",
+  "n_stations": 516,
+  "stations": [
+    {
+      "station_id": "01022500",
+      "latitude": 44.60797,
+      "longitude": -67.93524,
+      "drainage_area_km2": 573.6,
+      "warning_level_cms": 7.568,
+      "danger_level_cms": 12.765
+    },
+    {
+      "station_id": "01031500",
+      "latitude": 45.17501,
+      "longitude": -69.3147,
+      "drainage_area_km2": 769.05,
+      "warning_level_cms": 9.649,
+      "danger_level_cms": 18.93
+    },
+    {
+      "station_id": "01047000",
+      "latitude": 44.8692,
+      "longitude": -69.9551,
+      "drainage_area_km2": 909.1,
+      "warning_level_cms": 9.537,
+      "danger_level_cms": 18.49
+    },
+    {
+      "station_id": "01052500",
+      "latitude": 44.87739,
+      "longitude": -71.05749,
+      "drainage_area_km2": 383.82,
+      "warning_level_cms": 10.846,
+      "danger_level_cms": 22.693
+    },
+    {
+      "station_id": "01054200",
+      "latitude": 44.39044,
+      "longitude": -70.97964,
+      "drainage_area_km2": 180.98,
+      "warning_level_cms": 12.476,
+      "danger_level_cms": 30.266
+    },
+    {
+      "station_id": "01055000",
+      "latitude": 44.64275,
+      "longitude": -70.58878,
+      "drainage_area_km2": 250.64,
+      "warning_level_cms": 10.521,
+      "danger_level_cms": 24.008
+    },
+    {
+      "station_id": "01057000",
+      "latitude": 44.30399,
+      "longitude": -70.53968,
+      "drainage_area_km2": 190.92,
+      "warning_level_cms": 7.694,
+      "danger_level_cms": 15.335
+    },
+    {
+      "station_id": "01073000",
+      "latitude": 43.1487,
+      "longitude": -70.96506,
+      "drainage_area_km2": 31.3,
+      "warning_level_cms": 5.878,
+      "danger_level_cms": 11.915
+    },
+    {
+      "station_id": "01078000",
+      "latitude": 43.56646,
+      "longitude": -71.74786,
+      "drainage_area_km2": 222.46,
+      "warning_level_cms": 6.931,
+      "danger_level_cms": 12.192
+    },
+    {
+      "station_id": "01123000",
+      "latitude": 41.67177,
+      "longitude": -72.0523,
+      "drainage_area_km2": 77.85,
+      "warning_level_cms": 5.429,
+      "danger_level_cms": 12.794
+    },
+    {
+      "station_id": "01134500",
+      "latitude": 44.51172,
+      "longitude": -71.83731,
+      "drainage_area_km2": 195.13,
+      "warning_level_cms": 8.248,
+      "danger_level_cms": 16.597
+    },
+    {
+      "station_id": "01137500",
+      "latitude": 44.26867,
+      "longitude": -71.63036,
+      "drainage_area_km2": 228.55,
+      "warning_level_cms": 8.571,
+      "danger_level_cms": 18.17
+    },
+    {
+      "station_id": "01139000",
+      "latitude": 44.15034,
+      "longitude": -72.06509,
+      "drainage_area_km2": 246.33,
+      "warning_level_cms": 5.621,
+      "danger_level_cms": 10.296
+    },
+    {
+      "station_id": "01139800",
+      "latitude": 44.09284,
+      "longitude": -72.33565,
+      "drainage_area_km2": 22.8,
+      "warning_level_cms": 5.999,
+      "danger_level_cms": 9.797
+    },
+    {
+      "station_id": "01142500",
+      "latitude": 43.93451,
+      "longitude": -72.65788,
+      "drainage_area_km2": 82.17,
+      "warning_level_cms": 6.412,
+      "danger_level_cms": 12.303
+    },
+    {
+      "station_id": "01144000",
+      "latitude": 43.71424,
+      "longitude": -72.41815,
+      "drainage_area_km2": 1790.24,
+      "warning_level_cms": 6.369,
+      "danger_level_cms": 11.954
+    },
+    {
+      "station_id": "01162500",
+      "latitude": 42.68259,
+      "longitude": -72.11508,
+      "drainage_area_km2": 49.71,
+      "warning_level_cms": 6.23,
+      "danger_level_cms": 11.317
+    },
+    {
+      "station_id": "01169000",
+      "latitude": 42.63842,
+      "longitude": -72.72509,
+      "drainage_area_km2": 230.64,
+      "warning_level_cms": 8.041,
+      "danger_level_cms": 16.546
+    },
+    {
+      "station_id": "01170100",
+      "latitude": 42.70342,
+      "longitude": -72.67065,
+      "drainage_area_km2": 106.99,
+      "warning_level_cms": 7.774,
+      "danger_level_cms": 14.7
+    },
+    {
+      "station_id": "01181000",
+      "latitude": 42.23731,
+      "longitude": -72.89565,
+      "drainage_area_km2": 243.5,
+      "warning_level_cms": 7.25,
+      "danger_level_cms": 16.457
+    },
+    {
+      "station_id": "01187300",
+      "latitude": 42.03732,
+      "longitude": -72.93899,
+      "drainage_area_km2": 53.92,
+      "warning_level_cms": 7.695,
+      "danger_level_cms": 20.57
+    },
+    {
+      "station_id": "01195100",
+      "latitude": 41.30593,
+      "longitude": -72.5312,
+      "drainage_area_km2": 14.84,
+      "warning_level_cms": 5.453,
+      "danger_level_cms": 12.307
+    },
+    {
+      "station_id": "01333000",
+      "latitude": 42.70897,
+      "longitude": -73.19677,
+      "drainage_area_km2": 112.16,
+      "warning_level_cms": 6.355,
+      "danger_level_cms": 11.875
+    },
+    {
+      "station_id": "01350000",
+      "latitude": 42.31953,
+      "longitude": -74.43654,
+      "drainage_area_km2": 612.51,
+      "warning_level_cms": 7.906,
+      "danger_level_cms": 20.76
+    },
+    {
+      "station_id": "01350080",
+      "latitude": 42.37703,
+      "longitude": -74.41292,
+      "drainage_area_km2": 83.84,
+      "warning_level_cms": 5.173,
+      "danger_level_cms": 12.292
+    },
+    {
+      "station_id": "01350140",
+      "latitude": 42.42897,
+      "longitude": -74.47293,
+      "drainage_area_km2": 43.76,
+      "warning_level_cms": 5.096,
+      "danger_level_cms": 12.102
+    },
+    {
+      "station_id": "01365000",
+      "latitude": 41.86648,
+      "longitude": -74.4871,
+      "drainage_area_km2": 99.57,
+      "warning_level_cms": 8.364,
+      "danger_level_cms": 19.031
+    },
+    {
+      "station_id": "01411300",
+      "latitude": 39.30694,
+      "longitude": -74.82056,
+      "drainage_area_km2": 79.32,
+      "warning_level_cms": 3.081,
+      "danger_level_cms": 5.126
+    },
+    {
+      "station_id": "01413500",
+      "latitude": 42.14481,
+      "longitude": -74.65349,
+      "drainage_area_km2": 424.1,
+      "warning_level_cms": 6.326,
+      "danger_level_cms": 13.357
+    },
+    {
+      "station_id": "01414500",
+      "latitude": 42.1062,
+      "longitude": -74.73043,
+      "drainage_area_km2": 64.45,
+      "warning_level_cms": 7.043,
+      "danger_level_cms": 16.005
+    },
+    {
+      "station_id": "01415000",
+      "latitude": 42.12009,
+      "longitude": -74.81849,
+      "drainage_area_km2": 85.63,
+      "warning_level_cms": 5.788,
+      "danger_level_cms": 12.531
+    },
+    {
+      "station_id": "01423000",
+      "latitude": 42.1662,
+      "longitude": -75.13989,
+      "drainage_area_km2": 859.68,
+      "warning_level_cms": 6.081,
+      "danger_level_cms": 12.684
+    },
+    {
+      "station_id": "01434025",
+      "latitude": 41.99537,
+      "longitude": -74.50099,
+      "drainage_area_km2": 9.7,
+      "warning_level_cms": 9.25,
+      "danger_level_cms": 21.786
+    },
+    {
+      "station_id": "01435000",
+      "latitude": 41.89009,
+      "longitude": -74.58988,
+      "drainage_area_km2": 172.46,
+      "warning_level_cms": 9.343,
+      "danger_level_cms": 21.785
+    },
+    {
+      "station_id": "01439500",
+      "latitude": 41.08815,
+      "longitude": -75.03767,
+      "drainage_area_km2": 305.88,
+      "warning_level_cms": 6.415,
+      "danger_level_cms": 12.243
+    },
+    {
+      "station_id": "01440000",
+      "latitude": 41.10667,
+      "longitude": -74.95222,
+      "drainage_area_km2": 167.72,
+      "warning_level_cms": 5.296,
+      "danger_level_cms": 11.39
+    },
+    {
+      "station_id": "01440400",
+      "latitude": 41.08481,
+      "longitude": -75.21462,
+      "drainage_area_km2": 175.21,
+      "warning_level_cms": 6.707,
+      "danger_level_cms": 13.439
+    },
+    {
+      "station_id": "01451800",
+      "latitude": 40.66176,
+      "longitude": -75.62685,
+      "drainage_area_km2": 135.84,
+      "warning_level_cms": 6.341,
+      "danger_level_cms": 14.023
+    },
+    {
+      "station_id": "01466500",
+      "latitude": 39.885,
+      "longitude": -74.50528,
+      "drainage_area_km2": 5.38,
+      "warning_level_cms": 1.571,
+      "danger_level_cms": 2.528
+    },
+    {
+      "station_id": "01484100",
+      "latitude": 38.90578,
+      "longitude": -75.51275,
+      "drainage_area_km2": 9.0,
+      "warning_level_cms": 2.895,
+      "danger_level_cms": 7.055
+    },
+    {
+      "station_id": "01487000",
+      "latitude": 38.72833,
+      "longitude": -75.56186,
+      "drainage_area_km2": 187.41,
+      "warning_level_cms": 2.948,
+      "danger_level_cms": 5.272
+    },
+    {
+      "station_id": "01491000",
+      "latitude": 38.99719,
+      "longitude": -75.78581,
+      "drainage_area_km2": 292.04,
+      "warning_level_cms": 4.341,
+      "danger_level_cms": 9.957
+    },
+    {
+      "station_id": "01510000",
+      "latitude": 42.54118,
+      "longitude": -75.89964,
+      "drainage_area_km2": 382.99,
+      "warning_level_cms": 7.055,
+      "danger_level_cms": 13.526
+    },
+    {
+      "station_id": "01516500",
+      "latitude": 41.79091,
+      "longitude": -77.01469,
+      "drainage_area_km2": 31.48,
+      "warning_level_cms": 4.01,
+      "danger_level_cms": 11.981
+    },
+    {
+      "station_id": "01518862",
+      "latitude": 41.92313,
+      "longitude": -77.53193,
+      "drainage_area_km2": 233.91,
+      "warning_level_cms": 4.78,
+      "danger_level_cms": 11.386
+    },
+    {
+      "station_id": "01532000",
+      "latitude": 41.70702,
+      "longitude": -76.48467,
+      "drainage_area_km2": 553.94,
+      "warning_level_cms": 5.012,
+      "danger_level_cms": 12.13
+    },
+    {
+      "station_id": "01539000",
+      "latitude": 41.07814,
+      "longitude": -76.43106,
+      "drainage_area_km2": 701.78,
+      "warning_level_cms": 5.628,
+      "danger_level_cms": 12.087
+    },
+    {
+      "station_id": "01542810",
+      "latitude": 41.57895,
+      "longitude": -78.29251,
+      "drainage_area_km2": 13.62,
+      "warning_level_cms": 6.59,
+      "danger_level_cms": 15.6
+    },
+    {
+      "station_id": "01543000",
+      "latitude": 41.4134,
+      "longitude": -78.19695,
+      "drainage_area_km2": 705.5,
+      "warning_level_cms": 6.545,
+      "danger_level_cms": 12.825
+    },
+    {
+      "station_id": "01543500",
+      "latitude": 41.31728,
+      "longitude": -78.10306,
+      "drainage_area_km2": 1778.26,
+      "warning_level_cms": 5.991,
+      "danger_level_cms": 11.632
+    },
+    {
+      "station_id": "01544500",
+      "latitude": 41.4759,
+      "longitude": -77.82582,
+      "drainage_area_km2": 355.06,
+      "warning_level_cms": 6.03,
+      "danger_level_cms": 12.401
+    },
+    {
+      "station_id": "01545600",
+      "latitude": 41.38951,
+      "longitude": -77.69082,
+      "drainage_area_km2": 120.0,
+      "warning_level_cms": 5.496,
+      "danger_level_cms": 10.85
+    },
+    {
+      "station_id": "01547700",
+      "latitude": 41.05951,
+      "longitude": -77.60583,
+      "drainage_area_km2": 113.54,
+      "warning_level_cms": 4.855,
+      "danger_level_cms": 11.6
+    },
+    {
+      "station_id": "01548500",
+      "latitude": 41.52174,
+      "longitude": -77.44748,
+      "drainage_area_km2": 1557.05,
+      "warning_level_cms": 5.26,
+      "danger_level_cms": 10.37
+    },
+    {
+      "station_id": "01549500",
+      "latitude": 41.47368,
+      "longitude": -77.23081,
+      "drainage_area_km2": 97.49,
+      "warning_level_cms": 5.801,
+      "danger_level_cms": 13.738
+    },
+    {
+      "station_id": "01550000",
+      "latitude": 41.41841,
+      "longitude": -77.03275,
+      "drainage_area_km2": 452.68,
+      "warning_level_cms": 5.822,
+      "danger_level_cms": 13.028
+    },
+    {
+      "station_id": "01552000",
+      "latitude": 41.32508,
+      "longitude": -76.91246,
+      "drainage_area_km2": 1129.49,
+      "warning_level_cms": 5.987,
+      "danger_level_cms": 15.171
+    },
+    {
+      "station_id": "01552500",
+      "latitude": 41.35702,
+      "longitude": -76.53467,
+      "drainage_area_km2": 60.64,
+      "warning_level_cms": 6.686,
+      "danger_level_cms": 15.223
+    },
+    {
+      "station_id": "01557500",
+      "latitude": 40.68367,
+      "longitude": -78.23362,
+      "drainage_area_km2": 115.3,
+      "warning_level_cms": 5.862,
+      "danger_level_cms": 12.251
+    },
+    {
+      "station_id": "01567500",
+      "latitude": 40.37092,
+      "longitude": -77.40221,
+      "drainage_area_km2": 38.77,
+      "warning_level_cms": 4.058,
+      "danger_level_cms": 9.072
+    },
+    {
+      "station_id": "01568000",
+      "latitude": 40.32342,
+      "longitude": -77.16887,
+      "drainage_area_km2": 534.39,
+      "warning_level_cms": 4.893,
+      "danger_level_cms": 12.288
+    },
+    {
+      "station_id": "01580000",
+      "latitude": 39.62997,
+      "longitude": -76.40331,
+      "drainage_area_km2": 244.37,
+      "warning_level_cms": 3.148,
+      "danger_level_cms": 7.348
+    },
+    {
+      "station_id": "01583500",
+      "latitude": 39.51078,
+      "longitude": -76.6765,
+      "drainage_area_km2": 155.85,
+      "warning_level_cms": 2.688,
+      "danger_level_cms": 5.992
+    },
+    {
+      "station_id": "01586610",
+      "latitude": 39.45189,
+      "longitude": -76.95531,
+      "drainage_area_km2": 72.7,
+      "warning_level_cms": 3.187,
+      "danger_level_cms": 7.239
+    },
+    {
+      "station_id": "01591400",
+      "latitude": 39.25597,
+      "longitude": -77.05106,
+      "drainage_area_km2": 59.09,
+      "warning_level_cms": 2.541,
+      "danger_level_cms": 8.352
+    },
+    {
+      "station_id": "01594950",
+      "latitude": 39.27669,
+      "longitude": -79.39031,
+      "drainage_area_km2": 6.12,
+      "warning_level_cms": 6.621,
+      "danger_level_cms": 12.644
+    },
+    {
+      "station_id": "01596500",
+      "latitude": 39.57006,
+      "longitude": -79.10194,
+      "drainage_area_km2": 124.65,
+      "warning_level_cms": 6.685,
+      "danger_level_cms": 13.901
+    },
+    {
+      "station_id": "01605500",
+      "latitude": 38.63567,
+      "longitude": -79.33782,
+      "drainage_area_km2": 463.85,
+      "warning_level_cms": 3.195,
+      "danger_level_cms": 6.884
+    },
+    {
+      "station_id": "01606500",
+      "latitude": 38.99122,
+      "longitude": -79.17587,
+      "drainage_area_km2": 1684.55,
+      "warning_level_cms": 4.043,
+      "danger_level_cms": 8.756
+    },
+    {
+      "station_id": "01632000",
+      "latitude": 38.63706,
+      "longitude": -78.8528,
+      "drainage_area_km2": 543.36,
+      "warning_level_cms": 3.94,
+      "danger_level_cms": 11.57
+    },
+    {
+      "station_id": "01632900",
+      "latitude": 38.69345,
+      "longitude": -78.64279,
+      "drainage_area_km2": 245.05,
+      "warning_level_cms": 2.552,
+      "danger_level_cms": 5.997
+    },
+    {
+      "station_id": "01634500",
+      "latitude": 39.08122,
+      "longitude": -78.32945,
+      "drainage_area_km2": 263.98,
+      "warning_level_cms": 3.563,
+      "danger_level_cms": 9.706
+    },
+    {
+      "station_id": "01638480",
+      "latitude": 39.25455,
+      "longitude": -77.57638,
+      "drainage_area_km2": 232.0,
+      "warning_level_cms": 3.615,
+      "danger_level_cms": 10.406
+    },
+    {
+      "station_id": "01639500",
+      "latitude": 39.61236,
+      "longitude": -77.23744,
+      "drainage_area_km2": 267.18,
+      "warning_level_cms": 3.845,
+      "danger_level_cms": 9.87
+    },
+    {
+      "station_id": "01644000",
+      "latitude": 39.01955,
+      "longitude": -77.57749,
+      "drainage_area_km2": 859.17,
+      "warning_level_cms": 3.659,
+      "danger_level_cms": 8.809
+    },
+    {
+      "station_id": "01664000",
+      "latitude": 38.53068,
+      "longitude": -77.8136,
+      "drainage_area_km2": 1605.1,
+      "warning_level_cms": 3.617,
+      "danger_level_cms": 8.905
+    },
+    {
+      "station_id": "01666500",
+      "latitude": 38.32513,
+      "longitude": -78.09556,
+      "drainage_area_km2": 463.15,
+      "warning_level_cms": 3.287,
+      "danger_level_cms": 8.644
+    },
+    {
+      "station_id": "01667500",
+      "latitude": 38.35041,
+      "longitude": -77.975,
+      "drainage_area_km2": 1209.75,
+      "warning_level_cms": 3.428,
+      "danger_level_cms": 8.755
+    },
+    {
+      "station_id": "01669000",
+      "latitude": 37.87708,
+      "longitude": -76.90052,
+      "drainage_area_km2": 71.84,
+      "warning_level_cms": 3.218,
+      "danger_level_cms": 6.736
+    },
+    {
+      "station_id": "01669520",
+      "latitude": 37.63375,
+      "longitude": -76.69635,
+      "drainage_area_km2": 277.39,
+      "warning_level_cms": 3.079,
+      "danger_level_cms": 6.639
+    },
+    {
+      "station_id": "02011400",
+      "latitude": 38.04235,
+      "longitude": -79.88144,
+      "drainage_area_km2": 407.72,
+      "warning_level_cms": 3.45,
+      "danger_level_cms": 7.948
+    },
+    {
+      "station_id": "02013000",
+      "latitude": 37.8029,
+      "longitude": -80.047,
+      "drainage_area_km2": 424.78,
+      "warning_level_cms": 3.849,
+      "danger_level_cms": 9.95
+    },
+    {
+      "station_id": "02014000",
+      "latitude": 37.72901,
+      "longitude": -80.04228,
+      "drainage_area_km2": 396.78,
+      "warning_level_cms": 3.689,
+      "danger_level_cms": 8.583
+    },
+    {
+      "station_id": "02015700",
+      "latitude": 38.1954,
+      "longitude": -79.57032,
+      "drainage_area_km2": 285.41,
+      "warning_level_cms": 4.102,
+      "danger_level_cms": 9.875
+    },
+    {
+      "station_id": "02016000",
+      "latitude": 37.7918,
+      "longitude": -79.75949,
+      "drainage_area_km2": 1194.55,
+      "warning_level_cms": 3.991,
+      "danger_level_cms": 10.166
+    },
+    {
+      "station_id": "02017500",
+      "latitude": 37.50624,
+      "longitude": -80.10671,
+      "drainage_area_km2": 276.15,
+      "warning_level_cms": 4.514,
+      "danger_level_cms": 9.451
+    },
+    {
+      "station_id": "02018000",
+      "latitude": 37.66596,
+      "longitude": -79.91144,
+      "drainage_area_km2": 852.34,
+      "warning_level_cms": 4.207,
+      "danger_level_cms": 9.6
+    },
+    {
+      "station_id": "02027000",
+      "latitude": 37.71542,
+      "longitude": -78.98169,
+      "drainage_area_km2": 240.77,
+      "warning_level_cms": 5.298,
+      "danger_level_cms": 11.651
+    },
+    {
+      "station_id": "02027500",
+      "latitude": 37.70236,
+      "longitude": -79.02752,
+      "drainage_area_km2": 123.34,
+      "warning_level_cms": 5.846,
+      "danger_level_cms": 12.383
+    },
+    {
+      "station_id": "02028500",
+      "latitude": 37.86959,
+      "longitude": -78.82335,
+      "drainage_area_km2": 245.45,
+      "warning_level_cms": 4.639,
+      "danger_level_cms": 10.447
+    },
+    {
+      "station_id": "02038850",
+      "latitude": 37.41542,
+      "longitude": -78.63584,
+      "drainage_area_km2": 22.0,
+      "warning_level_cms": 2.523,
+      "danger_level_cms": 8.035
+    },
+    {
+      "station_id": "02046000",
+      "latitude": 37.06709,
+      "longitude": -77.60249,
+      "drainage_area_km2": 288.52,
+      "warning_level_cms": 2.86,
+      "danger_level_cms": 7.503
+    },
+    {
+      "station_id": "02051500",
+      "latitude": 36.71681,
+      "longitude": -77.83166,
+      "drainage_area_km2": 1428.71,
+      "warning_level_cms": 2.591,
+      "danger_level_cms": 7.721
+    },
+    {
+      "station_id": "02053200",
+      "latitude": 36.37083,
+      "longitude": -77.02556,
+      "drainage_area_km2": 583.66,
+      "warning_level_cms": 3.586,
+      "danger_level_cms": 7.553
+    },
+    {
+      "station_id": "02053800",
+      "latitude": 37.14013,
+      "longitude": -80.26643,
+      "drainage_area_km2": 280.72,
+      "warning_level_cms": 3.047,
+      "danger_level_cms": 8.054
+    },
+    {
+      "station_id": "02055100",
+      "latitude": 37.41763,
+      "longitude": -79.93532,
+      "drainage_area_km2": 30.54,
+      "warning_level_cms": 2.964,
+      "danger_level_cms": 6.69
+    },
+    {
+      "station_id": "02056900",
+      "latitude": 37.04514,
+      "longitude": -79.8442,
+      "drainage_area_km2": 298.11,
+      "warning_level_cms": 2.947,
+      "danger_level_cms": 7.924
+    },
+    {
+      "station_id": "02059500",
+      "latitude": 37.1732,
+      "longitude": -79.52031,
+      "drainage_area_km2": 485.41,
+      "warning_level_cms": 2.565,
+      "danger_level_cms": 7.201
+    },
+    {
+      "station_id": "02064000",
+      "latitude": 37.12681,
+      "longitude": -78.95974,
+      "drainage_area_km2": 427.77,
+      "warning_level_cms": 2.47,
+      "danger_level_cms": 7.339
+    },
+    {
+      "station_id": "02065500",
+      "latitude": 37.07931,
+      "longitude": -78.76362,
+      "drainage_area_km2": 252.58,
+      "warning_level_cms": 2.222,
+      "danger_level_cms": 7.165
+    },
+    {
+      "station_id": "02069700",
+      "latitude": 36.57097,
+      "longitude": -80.12949,
+      "drainage_area_km2": 221.13,
+      "warning_level_cms": 3.19,
+      "danger_level_cms": 7.685
+    },
+    {
+      "station_id": "02070000",
+      "latitude": 36.56819,
+      "longitude": -79.98726,
+      "drainage_area_km2": 270.61,
+      "warning_level_cms": 2.65,
+      "danger_level_cms": 7.636
+    },
+    {
+      "station_id": "02074500",
+      "latitude": 36.61958,
+      "longitude": -79.50419,
+      "drainage_area_km2": 288.53,
+      "warning_level_cms": 2.342,
+      "danger_level_cms": 8.475
+    },
+    {
+      "station_id": "02077200",
+      "latitude": 36.39778,
+      "longitude": -79.19667,
+      "drainage_area_km2": 121.69,
+      "warning_level_cms": 3.046,
+      "danger_level_cms": 11.954
+    },
+    {
+      "station_id": "02081500",
+      "latitude": 36.19417,
+      "longitude": -78.58306,
+      "drainage_area_km2": 428.37,
+      "warning_level_cms": 3.156,
+      "danger_level_cms": 11.57
+    },
+    {
+      "station_id": "02082950",
+      "latitude": 36.18333,
+      "longitude": -77.87611,
+      "drainage_area_km2": 460.85,
+      "warning_level_cms": 2.912,
+      "danger_level_cms": 7.735
+    },
+    {
+      "station_id": "02092500",
+      "latitude": 35.06417,
+      "longitude": -77.46139,
+      "drainage_area_km2": 447.58,
+      "warning_level_cms": 3.698,
+      "danger_level_cms": 8.864
+    },
+    {
+      "station_id": "02096846",
+      "latitude": 35.98722,
+      "longitude": -79.20611,
+      "drainage_area_km2": 19.57,
+      "warning_level_cms": 2.95,
+      "danger_level_cms": 11.185
+    },
+    {
+      "station_id": "02102908",
+      "latitude": 35.18278,
+      "longitude": -79.1775,
+      "drainage_area_km2": 19.73,
+      "warning_level_cms": 3.032,
+      "danger_level_cms": 5.778
+    },
+    {
+      "station_id": "02108000",
+      "latitude": 34.82889,
+      "longitude": -77.83222,
+      "drainage_area_km2": 1569.48,
+      "warning_level_cms": 3.649,
+      "danger_level_cms": 7.975
+    },
+    {
+      "station_id": "02111180",
+      "latitude": 36.07139,
+      "longitude": -81.40306,
+      "drainage_area_km2": 131.47,
+      "warning_level_cms": 4.679,
+      "danger_level_cms": 12.506
+    },
+    {
+      "station_id": "02111500",
+      "latitude": 36.175,
+      "longitude": -81.16889,
+      "drainage_area_km2": 233.66,
+      "warning_level_cms": 3.442,
+      "danger_level_cms": 7.694
+    },
+    {
+      "station_id": "02118500",
+      "latitude": 36.00056,
+      "longitude": -80.74556,
+      "drainage_area_km2": 400.53,
+      "warning_level_cms": 2.894,
+      "danger_level_cms": 8.634
+    },
+    {
+      "station_id": "02128000",
+      "latitude": 35.38722,
+      "longitude": -79.83139,
+      "drainage_area_km2": 273.48,
+      "warning_level_cms": 3.079,
+      "danger_level_cms": 10.731
+    },
+    {
+      "station_id": "02137727",
+      "latitude": 35.68583,
+      "longitude": -82.06028,
+      "drainage_area_km2": 329.54,
+      "warning_level_cms": 4.548,
+      "danger_level_cms": 10.882
+    },
+    {
+      "station_id": "02140991",
+      "latitude": 35.83361,
+      "longitude": -81.71194,
+      "drainage_area_km2": 521.99,
+      "warning_level_cms": 4.354,
+      "danger_level_cms": 10.673
+    },
+    {
+      "station_id": "02143000",
+      "latitude": 35.68444,
+      "longitude": -81.40333,
+      "drainage_area_km2": 216.67,
+      "warning_level_cms": 3.403,
+      "danger_level_cms": 9.109
+    },
+    {
+      "station_id": "02143040",
+      "latitude": 35.59069,
+      "longitude": -81.56704,
+      "drainage_area_km2": 66.48,
+      "warning_level_cms": 4.737,
+      "danger_level_cms": 11.736
+    },
+    {
+      "station_id": "02149000",
+      "latitude": 35.42345,
+      "longitude": -82.1115,
+      "drainage_area_km2": 203.85,
+      "warning_level_cms": 3.922,
+      "danger_level_cms": 9.486
+    },
+    {
+      "station_id": "02152100",
+      "latitude": 35.49306,
+      "longitude": -81.68222,
+      "drainage_area_km2": 154.99,
+      "warning_level_cms": 3.214,
+      "danger_level_cms": 8.846
+    },
+    {
+      "station_id": "02177000",
+      "latitude": 34.81398,
+      "longitude": -83.30599,
+      "drainage_area_km2": 526.77,
+      "warning_level_cms": 6.69,
+      "danger_level_cms": 11.534
+    },
+    {
+      "station_id": "02178400",
+      "latitude": 34.89037,
+      "longitude": -83.53044,
+      "drainage_area_km2": 151.28,
+      "warning_level_cms": 7.073,
+      "danger_level_cms": 13.609
+    },
+    {
+      "station_id": "02193340",
+      "latitude": 33.68263,
+      "longitude": -82.85792,
+      "drainage_area_km2": 87.87,
+      "warning_level_cms": 1.978,
+      "danger_level_cms": 9.018
+    },
+    {
+      "station_id": "02196000",
+      "latitude": 33.7293,
+      "longitude": -82.18179,
+      "drainage_area_km2": 1408.38,
+      "warning_level_cms": 2.215,
+      "danger_level_cms": 9.239
+    },
+    {
+      "station_id": "02198100",
+      "latitude": 32.93766,
+      "longitude": -81.81539,
+      "drainage_area_km2": 79.49,
+      "warning_level_cms": 3.0,
+      "danger_level_cms": 8.387
+    },
+    {
+      "station_id": "02202600",
+      "latitude": 32.16798,
+      "longitude": -81.48817,
+      "drainage_area_km2": 590.47,
+      "warning_level_cms": 3.26,
+      "danger_level_cms": 7.412
+    },
+    {
+      "station_id": "02212600",
+      "latitude": 33.09985,
+      "longitude": -83.72351,
+      "drainage_area_km2": 187.96,
+      "warning_level_cms": 2.864,
+      "danger_level_cms": 9.531
+    },
+    {
+      "station_id": "02215100",
+      "latitude": 32.23944,
+      "longitude": -83.50167,
+      "drainage_area_km2": 420.29,
+      "warning_level_cms": 3.506,
+      "danger_level_cms": 8.493
+    },
+    {
+      "station_id": "02216180",
+      "latitude": 31.99139,
+      "longitude": -82.92194,
+      "drainage_area_km2": 129.11,
+      "warning_level_cms": 3.986,
+      "danger_level_cms": 9.802
+    },
+    {
+      "station_id": "02221525",
+      "latitude": 33.25236,
+      "longitude": -83.48128,
+      "drainage_area_km2": 490.8,
+      "warning_level_cms": 2.376,
+      "danger_level_cms": 6.797
+    },
+    {
+      "station_id": "02231000",
+      "latitude": 30.35885,
+      "longitude": -82.0815,
+      "drainage_area_km2": 1748.37,
+      "warning_level_cms": 2.515,
+      "danger_level_cms": 7.718
+    },
+    {
+      "station_id": "02245500",
+      "latitude": 29.97941,
+      "longitude": -81.85204,
+      "drainage_area_km2": 348.43,
+      "warning_level_cms": 3.298,
+      "danger_level_cms": 8.226
+    },
+    {
+      "station_id": "02246000",
+      "latitude": 30.1133,
+      "longitude": -81.90649,
+      "drainage_area_km2": 451.06,
+      "warning_level_cms": 3.107,
+      "danger_level_cms": 7.985
+    },
+    {
+      "station_id": "02296500",
+      "latitude": 27.37504,
+      "longitude": -81.79647,
+      "drainage_area_km2": 886.4,
+      "warning_level_cms": 3.687,
+      "danger_level_cms": 7.306
+    },
+    {
+      "station_id": "02297155",
+      "latitude": 27.48726,
+      "longitude": -82.02342,
+      "drainage_area_km2": 93.6,
+      "warning_level_cms": 3.106,
+      "danger_level_cms": 7.293
+    },
+    {
+      "station_id": "02297310",
+      "latitude": 27.19949,
+      "longitude": -81.98842,
+      "drainage_area_km2": 528.38,
+      "warning_level_cms": 3.664,
+      "danger_level_cms": 8.936
+    },
+    {
+      "station_id": "02298123",
+      "latitude": 27.052,
+      "longitude": -81.78453,
+      "drainage_area_km2": 540.65,
+      "warning_level_cms": 4.509,
+      "danger_level_cms": 7.712
+    },
+    {
+      "station_id": "02298608",
+      "latitude": 27.34366,
+      "longitude": -82.15676,
+      "drainage_area_km2": 312.34,
+      "warning_level_cms": 5.208,
+      "danger_level_cms": 12.273
+    },
+    {
+      "station_id": "02299950",
+      "latitude": 27.47365,
+      "longitude": -82.2112,
+      "drainage_area_km2": 174.27,
+      "warning_level_cms": 5.625,
+      "danger_level_cms": 12.929
+    },
+    {
+      "station_id": "02300700",
+      "latitude": 27.79197,
+      "longitude": -82.35204,
+      "drainage_area_km2": 73.84,
+      "warning_level_cms": 4.961,
+      "danger_level_cms": 16.41
+    },
+    {
+      "station_id": "02349900",
+      "latitude": 32.19556,
+      "longitude": -83.90222,
+      "drainage_area_km2": 122.87,
+      "warning_level_cms": 3.124,
+      "danger_level_cms": 8.616
+    },
+    {
+      "station_id": "02350900",
+      "latitude": 31.76444,
+      "longitude": -84.25333,
+      "drainage_area_km2": 1365.12,
+      "warning_level_cms": 2.803,
+      "danger_level_cms": 5.647
+    },
+    {
+      "station_id": "02361000",
+      "latitude": 31.34295,
+      "longitude": -85.61049,
+      "drainage_area_km2": 1781.61,
+      "warning_level_cms": 3.508,
+      "danger_level_cms": 7.499
+    },
+    {
+      "station_id": "02363000",
+      "latitude": 31.59489,
+      "longitude": -85.783,
+      "drainage_area_km2": 1292.51,
+      "warning_level_cms": 3.523,
+      "danger_level_cms": 7.709
+    },
+    {
+      "station_id": "02369800",
+      "latitude": 31.02768,
+      "longitude": -86.70996,
+      "drainage_area_km2": 227.51,
+      "warning_level_cms": 4.141,
+      "danger_level_cms": 9.824
+    },
+    {
+      "station_id": "02371500",
+      "latitude": 31.5735,
+      "longitude": -86.25162,
+      "drainage_area_km2": 1292.79,
+      "warning_level_cms": 3.996,
+      "danger_level_cms": 8.093
+    },
+    {
+      "station_id": "02372250",
+      "latitude": 31.59627,
+      "longitude": -86.40552,
+      "drainage_area_km2": 1145.22,
+      "warning_level_cms": 4.005,
+      "danger_level_cms": 8.513
+    },
+    {
+      "station_id": "02374500",
+      "latitude": 31.4185,
+      "longitude": -86.98664,
+      "drainage_area_km2": 445.72,
+      "warning_level_cms": 3.64,
+      "danger_level_cms": 8.011
+    },
+    {
+      "station_id": "02381600",
+      "latitude": 34.57037,
+      "longitude": -84.46882,
+      "drainage_area_km2": 10.32,
+      "warning_level_cms": 3.845,
+      "danger_level_cms": 10.079
+    },
+    {
+      "station_id": "02384540",
+      "latitude": 34.87202,
+      "longitude": -84.72133,
+      "drainage_area_km2": 21.37,
+      "warning_level_cms": 7.765,
+      "danger_level_cms": 19.742
+    },
+    {
+      "station_id": "02395120",
+      "latitude": 34.24278,
+      "longitude": -84.88972,
+      "drainage_area_km2": 84.01,
+      "warning_level_cms": 3.636,
+      "danger_level_cms": 10.788
+    },
+    {
+      "station_id": "02415000",
+      "latitude": 33.06679,
+      "longitude": -85.87913,
+      "drainage_area_km2": 491.38,
+      "warning_level_cms": 4.543,
+      "danger_level_cms": 12.395
+    },
+    {
+      "station_id": "02427250",
+      "latitude": 31.99626,
+      "longitude": -87.06832,
+      "drainage_area_km2": 675.24,
+      "warning_level_cms": 4.756,
+      "danger_level_cms": 14.617
+    },
+    {
+      "station_id": "02430085",
+      "latitude": 34.46667,
+      "longitude": -88.28361,
+      "drainage_area_km2": 40.56,
+      "warning_level_cms": 5.654,
+      "danger_level_cms": 16.397
+    },
+    {
+      "station_id": "02450250",
+      "latitude": 34.28538,
+      "longitude": -87.39891,
+      "drainage_area_km2": 231.83,
+      "warning_level_cms": 6.852,
+      "danger_level_cms": 18.423
+    },
+    {
+      "station_id": "02464000",
+      "latitude": 33.47928,
+      "longitude": -87.59723,
+      "drainage_area_km2": 578.94,
+      "warning_level_cms": 6.053,
+      "danger_level_cms": 16.348
+    },
+    {
+      "station_id": "02465493",
+      "latitude": 32.99735,
+      "longitude": -87.62223,
+      "drainage_area_km2": 83.42,
+      "warning_level_cms": 2.941,
+      "danger_level_cms": 6.358
+    },
+    {
+      "station_id": "02469800",
+      "latitude": 31.74432,
+      "longitude": -88.02251,
+      "drainage_area_km2": 422.68,
+      "warning_level_cms": 4.789,
+      "danger_level_cms": 13.927
+    },
+    {
+      "station_id": "02472000",
+      "latitude": 31.70694,
+      "longitude": -89.40694,
+      "drainage_area_km2": 1927.13,
+      "warning_level_cms": 5.696,
+      "danger_level_cms": 12.875
+    },
+    {
+      "station_id": "02472500",
+      "latitude": 31.42583,
+      "longitude": -89.41472,
+      "drainage_area_km2": 789.94,
+      "warning_level_cms": 4.121,
+      "danger_level_cms": 11.297
+    },
+    {
+      "station_id": "02479155",
+      "latitude": 31.02528,
+      "longitude": -89.01667,
+      "drainage_area_km2": 137.28,
+      "warning_level_cms": 5.833,
+      "danger_level_cms": 17.022
+    },
+    {
+      "station_id": "02479300",
+      "latitude": 30.73611,
+      "longitude": -88.78111,
+      "drainage_area_km2": 1144.2,
+      "warning_level_cms": 6.725,
+      "danger_level_cms": 13.017
+    },
+    {
+      "station_id": "02479560",
+      "latitude": 30.80908,
+      "longitude": -88.45863,
+      "drainage_area_km2": 1454.33,
+      "warning_level_cms": 6.228,
+      "danger_level_cms": 12.372
+    },
+    {
+      "station_id": "02481000",
+      "latitude": 30.55861,
+      "longitude": -89.12194,
+      "drainage_area_km2": 249.23,
+      "warning_level_cms": 8.215,
+      "danger_level_cms": 21.83
+    },
+    {
+      "station_id": "02481510",
+      "latitude": 30.48361,
+      "longitude": -89.27444,
+      "drainage_area_km2": 800.66,
+      "warning_level_cms": 6.54,
+      "danger_level_cms": 17.022
+    },
+    {
+      "station_id": "03010655",
+      "latitude": 41.96173,
+      "longitude": -78.19807,
+      "drainage_area_km2": 254.44,
+      "warning_level_cms": 5.247,
+      "danger_level_cms": 11.553
+    },
+    {
+      "station_id": "03011800",
+      "latitude": 41.76645,
+      "longitude": -78.71864,
+      "drainage_area_km2": 100.1,
+      "warning_level_cms": 6.205,
+      "danger_level_cms": 11.59
+    },
+    {
+      "station_id": "03015500",
+      "latitude": 41.85256,
+      "longitude": -79.31727,
+      "drainage_area_km2": 784.85,
+      "warning_level_cms": 7.13,
+      "danger_level_cms": 13.558
+    },
+    {
+      "station_id": "03021350",
+      "latitude": 42.01533,
+      "longitude": -79.78255,
+      "drainage_area_km2": 239.67,
+      "warning_level_cms": 9.519,
+      "danger_level_cms": 21.791
+    },
+    {
+      "station_id": "03026500",
+      "latitude": 41.63117,
+      "longitude": -78.57669,
+      "drainage_area_km2": 20.31,
+      "warning_level_cms": 5.991,
+      "danger_level_cms": 11.587
+    },
+    {
+      "station_id": "03028000",
+      "latitude": 41.57534,
+      "longitude": -78.69225,
+      "drainage_area_km2": 161.11,
+      "warning_level_cms": 6.626,
+      "danger_level_cms": 12.222
+    },
+    {
+      "station_id": "03049000",
+      "latitude": 40.7159,
+      "longitude": -79.69949,
+      "drainage_area_km2": 357.15,
+      "warning_level_cms": 5.218,
+      "danger_level_cms": 10.484
+    },
+    {
+      "station_id": "03049800",
+      "latitude": 40.52035,
+      "longitude": -79.93811,
+      "drainage_area_km2": 14.89,
+      "warning_level_cms": 4.336,
+      "danger_level_cms": 10.108
+    },
+    {
+      "station_id": "03050000",
+      "latitude": 38.80927,
+      "longitude": -79.88173,
+      "drainage_area_km2": 487.29,
+      "warning_level_cms": 6.832,
+      "danger_level_cms": 15.834
+    },
+    {
+      "station_id": "03069500",
+      "latitude": 39.12288,
+      "longitude": -79.68117,
+      "drainage_area_km2": 1856.85,
+      "warning_level_cms": 8.259,
+      "danger_level_cms": 16.214
+    },
+    {
+      "station_id": "03070500",
+      "latitude": 39.61564,
+      "longitude": -79.70477,
+      "drainage_area_km2": 517.38,
+      "warning_level_cms": 7.238,
+      "danger_level_cms": 14.438
+    },
+    {
+      "station_id": "03076600",
+      "latitude": 39.65614,
+      "longitude": -79.39411,
+      "drainage_area_km2": 127.4,
+      "warning_level_cms": 6.315,
+      "danger_level_cms": 12.912
+    },
+    {
+      "station_id": "03078000",
+      "latitude": 39.70219,
+      "longitude": -79.13639,
+      "drainage_area_km2": 161.48,
+      "warning_level_cms": 6.993,
+      "danger_level_cms": 14.225
+    },
+    {
+      "station_id": "03140000",
+      "latitude": 40.36285,
+      "longitude": -81.86236,
+      "drainage_area_km2": 70.35,
+      "warning_level_cms": 3.86,
+      "danger_level_cms": 11.735
+    },
+    {
+      "station_id": "03144000",
+      "latitude": 40.13257,
+      "longitude": -82.14792,
+      "drainage_area_km2": 363.41,
+      "warning_level_cms": 4.213,
+      "danger_level_cms": 10.84
+    },
+    {
+      "station_id": "03170000",
+      "latitude": 37.03763,
+      "longitude": -80.55672,
+      "drainage_area_km2": 794.64,
+      "warning_level_cms": 2.738,
+      "danger_level_cms": 6.307
+    },
+    {
+      "station_id": "03173000",
+      "latitude": 37.26818,
+      "longitude": -80.70951,
+      "drainage_area_km2": 773.32,
+      "warning_level_cms": 3.513,
+      "danger_level_cms": 8.261
+    },
+    {
+      "station_id": "03180500",
+      "latitude": 38.54373,
+      "longitude": -79.83312,
+      "drainage_area_km2": 345.06,
+      "warning_level_cms": 7.104,
+      "danger_level_cms": 13.127
+    },
+    {
+      "station_id": "03182500",
+      "latitude": 38.18595,
+      "longitude": -80.13062,
+      "drainage_area_km2": 1364.97,
+      "warning_level_cms": 6.095,
+      "danger_level_cms": 13.14
+    },
+    {
+      "station_id": "03186500",
+      "latitude": 38.379,
+      "longitude": -80.48397,
+      "drainage_area_km2": 329.68,
+      "warning_level_cms": 8.812,
+      "danger_level_cms": 18.584
+    },
+    {
+      "station_id": "03237280",
+      "latitude": 38.64369,
+      "longitude": -83.21574,
+      "drainage_area_km2": 32.95,
+      "warning_level_cms": 4.609,
+      "danger_level_cms": 12.838
+    },
+    {
+      "station_id": "03237500",
+      "latitude": 38.80368,
+      "longitude": -83.42102,
+      "drainage_area_km2": 1003.21,
+      "warning_level_cms": 5.615,
+      "danger_level_cms": 16.813
+    },
+    {
+      "station_id": "03241500",
+      "latitude": 39.72284,
+      "longitude": -83.88271,
+      "drainage_area_km2": 170.91,
+      "warning_level_cms": 4.482,
+      "danger_level_cms": 10.536
+    },
+    {
+      "station_id": "03280700",
+      "latitude": 37.16509,
+      "longitude": -83.30796,
+      "drainage_area_km2": 158.22,
+      "warning_level_cms": 5.045,
+      "danger_level_cms": 13.762
+    },
+    {
+      "station_id": "03281500",
+      "latitude": 37.47981,
+      "longitude": -83.67519,
+      "drainage_area_km2": 1838.22,
+      "warning_level_cms": 5.732,
+      "danger_level_cms": 15.159
+    },
+    {
+      "station_id": "03285000",
+      "latitude": 37.64202,
+      "longitude": -84.66078,
+      "drainage_area_km2": 822.34,
+      "warning_level_cms": 5.719,
+      "danger_level_cms": 15.446
+    },
+    {
+      "station_id": "03291780",
+      "latitude": 38.87811,
+      "longitude": -85.25718,
+      "drainage_area_km2": 71.41,
+      "warning_level_cms": 7.596,
+      "danger_level_cms": 22.889
+    },
+    {
+      "station_id": "03338780",
+      "latitude": 40.26531,
+      "longitude": -87.6428,
+      "drainage_area_km2": 691.56,
+      "warning_level_cms": 4.606,
+      "danger_level_cms": 11.554
+    },
+    {
+      "station_id": "03340800",
+      "latitude": 39.81255,
+      "longitude": -86.9539,
+      "drainage_area_km2": 357.65,
+      "warning_level_cms": 4.285,
+      "danger_level_cms": 14.149
+    },
+    {
+      "station_id": "03346000",
+      "latitude": 39.01004,
+      "longitude": -87.94559,
+      "drainage_area_km2": 814.69,
+      "warning_level_cms": 5.392,
+      "danger_level_cms": 14.249
+    },
+    {
+      "station_id": "03364500",
+      "latitude": 39.27477,
+      "longitude": -85.70165,
+      "drainage_area_km2": 237.09,
+      "warning_level_cms": 5.489,
+      "danger_level_cms": 16.897
+    },
+    {
+      "station_id": "03366500",
+      "latitude": 38.80422,
+      "longitude": -85.67386,
+      "drainage_area_km2": 755.22,
+      "warning_level_cms": 6.337,
+      "danger_level_cms": 20.855
+    },
+    {
+      "station_id": "03368000",
+      "latitude": 39.07033,
+      "longitude": -85.48608,
+      "drainage_area_km2": 29.72,
+      "warning_level_cms": 7.21,
+      "danger_level_cms": 26.627
+    },
+    {
+      "station_id": "03384450",
+      "latitude": 37.47227,
+      "longitude": -88.54727,
+      "drainage_area_km2": 111.13,
+      "warning_level_cms": 5.826,
+      "danger_level_cms": 21.551
+    },
+    {
+      "station_id": "03439000",
+      "latitude": 35.14333,
+      "longitude": -82.82472,
+      "drainage_area_km2": 178.67,
+      "warning_level_cms": 7.867,
+      "danger_level_cms": 15.706
+    },
+    {
+      "station_id": "03455500",
+      "latitude": 35.39611,
+      "longitude": -82.9375,
+      "drainage_area_km2": 72.95,
+      "warning_level_cms": 9.082,
+      "danger_level_cms": 22.881
+    },
+    {
+      "station_id": "03456500",
+      "latitude": 35.46167,
+      "longitude": -82.86972,
+      "drainage_area_km2": 133.43,
+      "warning_level_cms": 7.266,
+      "danger_level_cms": 16.254
+    },
+    {
+      "station_id": "03460000",
+      "latitude": 35.6675,
+      "longitude": -83.07361,
+      "drainage_area_km2": 127.02,
+      "warning_level_cms": 5.514,
+      "danger_level_cms": 10.604
+    },
+    {
+      "station_id": "03463300",
+      "latitude": 35.83151,
+      "longitude": -82.18429,
+      "drainage_area_km2": 112.16,
+      "warning_level_cms": 8.351,
+      "danger_level_cms": 21.121
+    },
+    {
+      "station_id": "03471500",
+      "latitude": 36.76039,
+      "longitude": -81.63123,
+      "drainage_area_km2": 198.16,
+      "warning_level_cms": 3.93,
+      "danger_level_cms": 8.248
+    },
+    {
+      "station_id": "03473000",
+      "latitude": 36.65178,
+      "longitude": -81.84401,
+      "drainage_area_km2": 784.81,
+      "warning_level_cms": 4.406,
+      "danger_level_cms": 8.817
+    },
+    {
+      "station_id": "03479000",
+      "latitude": 36.23917,
+      "longitude": -81.82222,
+      "drainage_area_km2": 235.6,
+      "warning_level_cms": 5.193,
+      "danger_level_cms": 13.559
+    },
+    {
+      "station_id": "03488000",
+      "latitude": 36.89678,
+      "longitude": -81.74623,
+      "drainage_area_km2": 578.21,
+      "warning_level_cms": 4.256,
+      "danger_level_cms": 9.674
+    },
+    {
+      "station_id": "03498500",
+      "latitude": 35.78562,
+      "longitude": -83.8846,
+      "drainage_area_km2": 696.76,
+      "warning_level_cms": 5.221,
+      "danger_level_cms": 12.451
+    },
+    {
+      "station_id": "03500000",
+      "latitude": 35.15,
+      "longitude": -83.37972,
+      "drainage_area_km2": 361.14,
+      "warning_level_cms": 5.901,
+      "danger_level_cms": 10.701
+    },
+    {
+      "station_id": "03504000",
+      "latitude": 35.1275,
+      "longitude": -83.61861,
+      "drainage_area_km2": 134.52,
+      "warning_level_cms": 8.693,
+      "danger_level_cms": 16.651
+    },
+    {
+      "station_id": "03574500",
+      "latitude": 34.62425,
+      "longitude": -86.30637,
+      "drainage_area_km2": 813.8,
+      "warning_level_cms": 7.791,
+      "danger_level_cms": 20.175
+    },
+    {
+      "station_id": "03592718",
+      "latitude": 34.83556,
+      "longitude": -88.28806,
+      "drainage_area_km2": 66.99,
+      "warning_level_cms": 5.018,
+      "danger_level_cms": 16.764
+    },
+    {
+      "station_id": "03604000",
+      "latitude": 35.49591,
+      "longitude": -87.8328,
+      "drainage_area_km2": 1163.03,
+      "warning_level_cms": 4.408,
+      "danger_level_cms": 11.857
+    },
+    {
+      "station_id": "04015330",
+      "latitude": 46.94688,
+      "longitude": -91.7924,
+      "drainage_area_km2": 224.35,
+      "warning_level_cms": 6.06,
+      "danger_level_cms": 13.572
+    },
+    {
+      "station_id": "04024430",
+      "latitude": 46.63327,
+      "longitude": -92.09408,
+      "drainage_area_km2": 1091.25,
+      "warning_level_cms": 3.596,
+      "danger_level_cms": 8.823
+    },
+    {
+      "station_id": "04027000",
+      "latitude": 46.48661,
+      "longitude": -90.6963,
+      "drainage_area_km2": 1619.85,
+      "warning_level_cms": 4.184,
+      "danger_level_cms": 10.341
+    },
+    {
+      "station_id": "04040500",
+      "latitude": 46.58411,
+      "longitude": -88.57597,
+      "drainage_area_km2": 419.83,
+      "warning_level_cms": 4.704,
+      "danger_level_cms": 8.89
+    },
+    {
+      "station_id": "04043050",
+      "latitude": 47.22854,
+      "longitude": -88.38539,
+      "drainage_area_km2": 76.62,
+      "warning_level_cms": 5.681,
+      "danger_level_cms": 14.45
+    },
+    {
+      "station_id": "04045500",
+      "latitude": 46.57502,
+      "longitude": -85.26955,
+      "drainage_area_km2": 1909.59,
+      "warning_level_cms": 3.316,
+      "danger_level_cms": 5.373
+    },
+    {
+      "station_id": "04057510",
+      "latitude": 45.94302,
+      "longitude": -86.7057,
+      "drainage_area_km2": 473.57,
+      "warning_level_cms": 3.098,
+      "danger_level_cms": 5.024
+    },
+    {
+      "station_id": "04057800",
+      "latitude": 46.4991,
+      "longitude": -87.88652,
+      "drainage_area_km2": 115.87,
+      "warning_level_cms": 4.269,
+      "danger_level_cms": 8.384
+    },
+    {
+      "station_id": "04059500",
+      "latitude": 45.75552,
+      "longitude": -87.20152,
+      "drainage_area_km2": 1184.37,
+      "warning_level_cms": 3.317,
+      "danger_level_cms": 5.407
+    },
+    {
+      "station_id": "04063700",
+      "latitude": 45.76357,
+      "longitude": -88.46318,
+      "drainage_area_km2": 362.57,
+      "warning_level_cms": 2.437,
+      "danger_level_cms": 4.109
+    },
+    {
+      "station_id": "04074950",
+      "latitude": 45.18997,
+      "longitude": -88.73344,
+      "drainage_area_km2": 1205.53,
+      "warning_level_cms": 2.072,
+      "danger_level_cms": 2.813
+    },
+    {
+      "station_id": "04105700",
+      "latitude": 42.35337,
+      "longitude": -85.35389,
+      "drainage_area_km2": 98.04,
+      "warning_level_cms": 1.916,
+      "danger_level_cms": 2.661
+    },
+    {
+      "station_id": "04115265",
+      "latitude": 43.24976,
+      "longitude": -84.98113,
+      "drainage_area_km2": 95.78,
+      "warning_level_cms": 1.655,
+      "danger_level_cms": 2.924
+    },
+    {
+      "station_id": "04122200",
+      "latitude": 43.46418,
+      "longitude": -86.23257,
+      "drainage_area_km2": 1048.28,
+      "warning_level_cms": 2.086,
+      "danger_level_cms": 2.891
+    },
+    {
+      "station_id": "04122500",
+      "latitude": 43.94501,
+      "longitude": -86.27869,
+      "drainage_area_km2": 1769.19,
+      "warning_level_cms": 2.061,
+      "danger_level_cms": 2.827
+    },
+    {
+      "station_id": "04127997",
+      "latitude": 45.27446,
+      "longitude": -84.60003,
+      "drainage_area_km2": 487.16,
+      "warning_level_cms": 1.681,
+      "danger_level_cms": 2.387
+    },
+    {
+      "station_id": "04185000",
+      "latitude": 41.5045,
+      "longitude": -84.42967,
+      "drainage_area_km2": 1064.0,
+      "warning_level_cms": 3.885,
+      "danger_level_cms": 6.742
+    },
+    {
+      "station_id": "04196800",
+      "latitude": 40.92283,
+      "longitude": -83.34881,
+      "drainage_area_km2": 608.07,
+      "warning_level_cms": 5.367,
+      "danger_level_cms": 11.722
+    },
+    {
+      "station_id": "04197100",
+      "latitude": 41.02228,
+      "longitude": -83.10964,
+      "drainage_area_km2": 388.21,
+      "warning_level_cms": 5.332,
+      "danger_level_cms": 11.815
+    },
+    {
+      "station_id": "04197170",
+      "latitude": 41.11367,
+      "longitude": -83.16825,
+      "drainage_area_km2": 95.21,
+      "warning_level_cms": 4.995,
+      "danger_level_cms": 15.934
+    },
+    {
+      "station_id": "04213000",
+      "latitude": 41.927,
+      "longitude": -80.60397,
+      "drainage_area_km2": 455.3,
+      "warning_level_cms": 7.596,
+      "danger_level_cms": 14.872
+    },
+    {
+      "station_id": "04213075",
+      "latitude": 41.992,
+      "longitude": -80.29117,
+      "drainage_area_km2": 11.65,
+      "warning_level_cms": 5.654,
+      "danger_level_cms": 13.75
+    },
+    {
+      "station_id": "04216418",
+      "latitude": 42.86395,
+      "longitude": -78.28363,
+      "drainage_area_km2": 196.47,
+      "warning_level_cms": 5.655,
+      "danger_level_cms": 12.426
+    },
+    {
+      "station_id": "04221000",
+      "latitude": 42.12229,
+      "longitude": -77.95722,
+      "drainage_area_km2": 750.88,
+      "warning_level_cms": 4.677,
+      "danger_level_cms": 10.052
+    },
+    {
+      "station_id": "04224775",
+      "latitude": 42.53562,
+      "longitude": -77.70416,
+      "drainage_area_km2": 231.84,
+      "warning_level_cms": 4.038,
+      "danger_level_cms": 9.231
+    },
+    {
+      "station_id": "04256000",
+      "latitude": 43.74729,
+      "longitude": -75.33435,
+      "drainage_area_km2": 232.45,
+      "warning_level_cms": 7.903,
+      "danger_level_cms": 14.26
+    },
+    {
+      "station_id": "04296000",
+      "latitude": 44.86894,
+      "longitude": -72.2701,
+      "drainage_area_km2": 302.19,
+      "warning_level_cms": 6.698,
+      "danger_level_cms": 11.046
+    },
+    {
+      "station_id": "05057200",
+      "latitude": 47.22916,
+      "longitude": -98.12482,
+      "drainage_area_km2": 1897.33,
+      "warning_level_cms": 0.739,
+      "danger_level_cms": 3.051
+    },
+    {
+      "station_id": "05120500",
+      "latitude": 48.13834,
+      "longitude": -100.53986,
+      "drainage_area_km2": 1509.83,
+      "warning_level_cms": 0.761,
+      "danger_level_cms": 1.892
+    },
+    {
+      "station_id": "05291000",
+      "latitude": 45.29163,
+      "longitude": -96.48756,
+      "drainage_area_km2": 1046.78,
+      "warning_level_cms": 1.162,
+      "danger_level_cms": 3.522
+    },
+    {
+      "station_id": "05362000",
+      "latitude": 45.30803,
+      "longitude": -90.95652,
+      "drainage_area_km2": 1477.29,
+      "warning_level_cms": 4.374,
+      "danger_level_cms": 9.593
+    },
+    {
+      "station_id": "05393500",
+      "latitude": 45.44913,
+      "longitude": -89.97931,
+      "drainage_area_km2": 220.44,
+      "warning_level_cms": 5.27,
+      "danger_level_cms": 12.279
+    },
+    {
+      "station_id": "05399500",
+      "latitude": 44.82191,
+      "longitude": -90.07958,
+      "drainage_area_km2": 576.3,
+      "warning_level_cms": 3.898,
+      "danger_level_cms": 13.628
+    },
+    {
+      "station_id": "05408000",
+      "latitude": 43.57414,
+      "longitude": -90.64319,
+      "drainage_area_km2": 689.33,
+      "warning_level_cms": 1.659,
+      "danger_level_cms": 3.597
+    },
+    {
+      "station_id": "05413500",
+      "latitude": 42.72027,
+      "longitude": -90.81929,
+      "drainage_area_km2": 695.33,
+      "warning_level_cms": 1.726,
+      "danger_level_cms": 3.819
+    },
+    {
+      "station_id": "05414000",
+      "latitude": 42.7311,
+      "longitude": -90.64041,
+      "drainage_area_km2": 370.79,
+      "warning_level_cms": 1.917,
+      "danger_level_cms": 4.314
+    },
+    {
+      "station_id": "05444000",
+      "latitude": 41.90281,
+      "longitude": -89.69622,
+      "drainage_area_km2": 376.35,
+      "warning_level_cms": 2.034,
+      "danger_level_cms": 5.356
+    },
+    {
+      "station_id": "05454000",
+      "latitude": 41.70002,
+      "longitude": -91.48767,
+      "drainage_area_km2": 65.38,
+      "warning_level_cms": 2.653,
+      "danger_level_cms": 7.794
+    },
+    {
+      "station_id": "05458000",
+      "latitude": 43.03328,
+      "longitude": -92.50354,
+      "drainage_area_km2": 776.76,
+      "warning_level_cms": 3.061,
+      "danger_level_cms": 7.893
+    },
+    {
+      "station_id": "05466500",
+      "latitude": 41.18698,
+      "longitude": -90.96737,
+      "drainage_area_km2": 1151.57,
+      "warning_level_cms": 3.315,
+      "danger_level_cms": 7.34
+    },
+    {
+      "station_id": "05487980",
+      "latitude": 41.24688,
+      "longitude": -93.26607,
+      "drainage_area_km2": 882.73,
+      "warning_level_cms": 3.671,
+      "danger_level_cms": 13.322
+    },
+    {
+      "station_id": "05488200",
+      "latitude": 41.30055,
+      "longitude": -93.04548,
+      "drainage_area_km2": 234.21,
+      "warning_level_cms": 3.83,
+      "danger_level_cms": 15.961
+    },
+    {
+      "station_id": "05489000",
+      "latitude": 41.219,
+      "longitude": -92.90853,
+      "drainage_area_km2": 964.76,
+      "warning_level_cms": 3.707,
+      "danger_level_cms": 15.447
+    },
+    {
+      "station_id": "05495000",
+      "latitude": 40.39241,
+      "longitude": -91.59788,
+      "drainage_area_km2": 1027.55,
+      "warning_level_cms": 4.229,
+      "danger_level_cms": 13.526
+    },
+    {
+      "station_id": "05495500",
+      "latitude": 40.14282,
+      "longitude": -91.33737,
+      "drainage_area_km2": 905.56,
+      "warning_level_cms": 3.769,
+      "danger_level_cms": 13.942
+    },
+    {
+      "station_id": "05501000",
+      "latitude": 39.81799,
+      "longitude": -91.5177,
+      "drainage_area_km2": 922.83,
+      "warning_level_cms": 3.504,
+      "danger_level_cms": 13.39
+    },
+    {
+      "station_id": "05503800",
+      "latitude": 39.58483,
+      "longitude": -91.99349,
+      "drainage_area_km2": 212.64,
+      "warning_level_cms": 3.534,
+      "danger_level_cms": 15.439
+    },
+    {
+      "station_id": "05507600",
+      "latitude": 39.43143,
+      "longitude": -91.67627,
+      "drainage_area_km2": 275.38,
+      "warning_level_cms": 2.93,
+      "danger_level_cms": 17.038
+    },
+    {
+      "station_id": "05508805",
+      "latitude": 39.52046,
+      "longitude": -91.34275,
+      "drainage_area_km2": 536.4,
+      "warning_level_cms": 3.043,
+      "danger_level_cms": 13.477
+    },
+    {
+      "station_id": "05525500",
+      "latitude": 40.63004,
+      "longitude": -87.72392,
+      "drainage_area_km2": 1158.76,
+      "warning_level_cms": 4.337,
+      "danger_level_cms": 9.829
+    },
+    {
+      "station_id": "05556500",
+      "latitude": 41.36587,
+      "longitude": -89.49843,
+      "drainage_area_km2": 505.09,
+      "warning_level_cms": 3.017,
+      "danger_level_cms": 8.321
+    },
+    {
+      "station_id": "05584500",
+      "latitude": 40.33032,
+      "longitude": -90.89624,
+      "drainage_area_km2": 1695.67,
+      "warning_level_cms": 3.721,
+      "danger_level_cms": 10.053
+    },
+    {
+      "station_id": "05591550",
+      "latitude": 39.5067,
+      "longitude": -88.52756,
+      "drainage_area_km2": 96.21,
+      "warning_level_cms": 4.046,
+      "danger_level_cms": 12.519
+    },
+    {
+      "station_id": "05592050",
+      "latitude": 39.40587,
+      "longitude": -88.89646,
+      "drainage_area_km2": 254.12,
+      "warning_level_cms": 3.749,
+      "danger_level_cms": 13.885
+    },
+    {
+      "station_id": "05592575",
+      "latitude": 38.93699,
+      "longitude": -88.95284,
+      "drainage_area_km2": 115.25,
+      "warning_level_cms": 4.518,
+      "danger_level_cms": 18.965
+    },
+    {
+      "station_id": "05593575",
+      "latitude": 38.44172,
+      "longitude": -89.41675,
+      "drainage_area_km2": 217.67,
+      "warning_level_cms": 5.921,
+      "danger_level_cms": 17.33
+    },
+    {
+      "station_id": "05593900",
+      "latitude": 39.14894,
+      "longitude": -89.35231,
+      "drainage_area_km2": 145.45,
+      "warning_level_cms": 4.204,
+      "danger_level_cms": 17.296
+    },
+    {
+      "station_id": "05595730",
+      "latitude": 38.25394,
+      "longitude": -89.03979,
+      "drainage_area_km2": 236.76,
+      "warning_level_cms": 6.56,
+      "danger_level_cms": 20.855
+    },
+    {
+      "station_id": "06221400",
+      "latitude": 43.34551,
+      "longitude": -109.41014,
+      "drainage_area_km2": 227.88,
+      "warning_level_cms": 5.857,
+      "danger_level_cms": 8.461
+    },
+    {
+      "station_id": "06224000",
+      "latitude": 43.1769,
+      "longitude": -109.20291,
+      "drainage_area_km2": 484.86,
+      "warning_level_cms": 6.01,
+      "danger_level_cms": 10.296
+    },
+    {
+      "station_id": "06278300",
+      "latitude": 44.50802,
+      "longitude": -107.40369,
+      "drainage_area_km2": 58.85,
+      "warning_level_cms": 8.085,
+      "danger_level_cms": 17.705
+    },
+    {
+      "station_id": "06280300",
+      "latitude": 44.20828,
+      "longitude": -109.55489,
+      "drainage_area_km2": 793.95,
+      "warning_level_cms": 5.735,
+      "danger_level_cms": 9.971
+    },
+    {
+      "station_id": "06289000",
+      "latitude": 45.00691,
+      "longitude": -107.61509,
+      "drainage_area_km2": 471.27,
+      "warning_level_cms": 2.633,
+      "danger_level_cms": 5.299
+    },
+    {
+      "station_id": "06311000",
+      "latitude": 44.02774,
+      "longitude": -107.08089,
+      "drainage_area_km2": 61.23,
+      "warning_level_cms": 3.635,
+      "danger_level_cms": 6.371
+    },
+    {
+      "station_id": "06332515",
+      "latitude": 47.78724,
+      "longitude": -102.76853,
+      "drainage_area_km2": 191.49,
+      "warning_level_cms": 0.217,
+      "danger_level_cms": 1.366
+    },
+    {
+      "station_id": "06339100",
+      "latitude": 47.23613,
+      "longitude": -102.76991,
+      "drainage_area_km2": 529.14,
+      "warning_level_cms": 0.23,
+      "danger_level_cms": 1.001
+    },
+    {
+      "station_id": "06344600",
+      "latitude": 47.02779,
+      "longitude": -103.05324,
+      "drainage_area_km2": 402.5,
+      "warning_level_cms": 0.161,
+      "danger_level_cms": 1.145
+    },
+    {
+      "station_id": "06350000",
+      "latitude": 46.42667,
+      "longitude": -102.55183,
+      "drainage_area_km2": 1501.05,
+      "warning_level_cms": 0.161,
+      "danger_level_cms": 0.75
+    },
+    {
+      "station_id": "06352000",
+      "latitude": 46.15417,
+      "longitude": -102.47405,
+      "drainage_area_km2": 1441.83,
+      "warning_level_cms": 0.19,
+      "danger_level_cms": 0.833
+    },
+    {
+      "station_id": "06404000",
+      "latitude": 43.87249,
+      "longitude": -103.33658,
+      "drainage_area_km2": 151.83,
+      "warning_level_cms": 0.751,
+      "danger_level_cms": 2.613
+    },
+    {
+      "station_id": "06406000",
+      "latitude": 43.82805,
+      "longitude": -103.19602,
+      "drainage_area_km2": 436.34,
+      "warning_level_cms": 0.344,
+      "danger_level_cms": 1.273
+    },
+    {
+      "station_id": "06409000",
+      "latitude": 44.01359,
+      "longitude": -103.83048,
+      "drainage_area_km2": 205.33,
+      "warning_level_cms": 0.415,
+      "danger_level_cms": 0.611
+    },
+    {
+      "station_id": "06431500",
+      "latitude": 44.48248,
+      "longitude": -103.86159,
+      "drainage_area_km2": 427.1,
+      "warning_level_cms": 0.706,
+      "danger_level_cms": 1.259
+    },
+    {
+      "station_id": "06440200",
+      "latitude": 43.96888,
+      "longitude": -101.76709,
+      "drainage_area_km2": 649.19,
+      "warning_level_cms": 0.251,
+      "danger_level_cms": 1.52
+    },
+    {
+      "station_id": "06447500",
+      "latitude": 43.16667,
+      "longitude": -101.63015,
+      "drainage_area_km2": 826.61,
+      "warning_level_cms": 0.218,
+      "danger_level_cms": 0.396
+    },
+    {
+      "station_id": "06470800",
+      "latitude": 46.22524,
+      "longitude": -98.07177,
+      "drainage_area_km2": 1071.14,
+      "warning_level_cms": 1.045,
+      "danger_level_cms": 5.694
+    },
+    {
+      "station_id": "06477500",
+      "latitude": 43.7764,
+      "longitude": -98.24567,
+      "drainage_area_km2": 1512.44,
+      "warning_level_cms": 0.4,
+      "danger_level_cms": 1.734
+    },
+    {
+      "station_id": "06479215",
+      "latitude": 45.1808,
+      "longitude": -97.18619,
+      "drainage_area_km2": 175.28,
+      "warning_level_cms": 0.974,
+      "danger_level_cms": 2.83
+    },
+    {
+      "station_id": "06601000",
+      "latitude": 42.32158,
+      "longitude": -96.48768,
+      "drainage_area_km2": 450.2,
+      "warning_level_cms": 0.948,
+      "danger_level_cms": 2.072
+    },
+    {
+      "station_id": "06614800",
+      "latitude": 40.49609,
+      "longitude": -105.86501,
+      "drainage_area_km2": 4.03,
+      "warning_level_cms": 11.909,
+      "danger_level_cms": 19.003
+    },
+    {
+      "station_id": "06622700",
+      "latitude": 41.37024,
+      "longitude": -106.52058,
+      "drainage_area_km2": 98.7,
+      "warning_level_cms": 8.182,
+      "danger_level_cms": 15.241
+    },
+    {
+      "station_id": "06623800",
+      "latitude": 41.02358,
+      "longitude": -106.82477,
+      "drainage_area_km2": 187.66,
+      "warning_level_cms": 9.03,
+      "danger_level_cms": 14.686
+    },
+    {
+      "station_id": "06632400",
+      "latitude": 41.58525,
+      "longitude": -106.22279,
+      "drainage_area_km2": 162.99,
+      "warning_level_cms": 8.017,
+      "danger_level_cms": 14.337
+    },
+    {
+      "station_id": "06746095",
+      "latitude": 40.53998,
+      "longitude": -105.88279,
+      "drainage_area_km2": 8.9,
+      "warning_level_cms": 25.67,
+      "danger_level_cms": 37.005
+    },
+    {
+      "station_id": "06803510",
+      "latitude": 40.89311,
+      "longitude": -96.68155,
+      "drainage_area_km2": 113.28,
+      "warning_level_cms": 0.694,
+      "danger_level_cms": 3.78
+    },
+    {
+      "station_id": "06803530",
+      "latitude": 41.0157,
+      "longitude": -96.54428,
+      "drainage_area_km2": 309.75,
+      "warning_level_cms": 0.967,
+      "danger_level_cms": 4.843
+    },
+    {
+      "station_id": "06814000",
+      "latitude": 39.94778,
+      "longitude": -96.10862,
+      "drainage_area_km2": 713.83,
+      "warning_level_cms": 1.504,
+      "danger_level_cms": 7.782
+    },
+    {
+      "station_id": "06847900",
+      "latitude": 39.76985,
+      "longitude": -100.10078,
+      "drainage_area_km2": 1536.19,
+      "warning_level_cms": 0.021,
+      "danger_level_cms": 0.091
+    },
+    {
+      "station_id": "06853800",
+      "latitude": 39.89925,
+      "longitude": -98.25043,
+      "drainage_area_km2": 589.43,
+      "warning_level_cms": 0.275,
+      "danger_level_cms": 1.636
+    },
+    {
+      "station_id": "06876700",
+      "latitude": 39.13907,
+      "longitude": -97.83696,
+      "drainage_area_km2": 1056.44,
+      "warning_level_cms": 0.694,
+      "danger_level_cms": 3.05
+    },
+    {
+      "station_id": "06878000",
+      "latitude": 39.03111,
+      "longitude": -97.04029,
+      "drainage_area_km2": 776.42,
+      "warning_level_cms": 0.959,
+      "danger_level_cms": 5.224
+    },
+    {
+      "station_id": "06879650",
+      "latitude": 39.10195,
+      "longitude": -96.59521,
+      "drainage_area_km2": 11.51,
+      "warning_level_cms": 1.792,
+      "danger_level_cms": 5.573
+    },
+    {
+      "station_id": "06885500",
+      "latitude": 39.68192,
+      "longitude": -96.44289,
+      "drainage_area_km2": 1062.87,
+      "warning_level_cms": 1.565,
+      "danger_level_cms": 7.51
+    },
+    {
+      "station_id": "06888500",
+      "latitude": 39.06265,
+      "longitude": -96.15025,
+      "drainage_area_km2": 842.35,
+      "warning_level_cms": 1.638,
+      "danger_level_cms": 6.728
+    },
+    {
+      "station_id": "06889200",
+      "latitude": 39.23833,
+      "longitude": -95.8886,
+      "drainage_area_km2": 385.66,
+      "warning_level_cms": 1.844,
+      "danger_level_cms": 9.31
+    },
+    {
+      "station_id": "06889500",
+      "latitude": 39.09938,
+      "longitude": -95.72495,
+      "drainage_area_km2": 748.58,
+      "warning_level_cms": 1.762,
+      "danger_level_cms": 9.976
+    },
+    {
+      "station_id": "06892000",
+      "latitude": 39.11633,
+      "longitude": -95.01088,
+      "drainage_area_km2": 1092.72,
+      "warning_level_cms": 3.452,
+      "danger_level_cms": 10.885
+    },
+    {
+      "station_id": "06903400",
+      "latitude": 40.95189,
+      "longitude": -93.25985,
+      "drainage_area_km2": 481.42,
+      "warning_level_cms": 5.77,
+      "danger_level_cms": 13.644
+    },
+    {
+      "station_id": "06906800",
+      "latitude": 38.70225,
+      "longitude": -92.97883,
+      "drainage_area_km2": 1414.75,
+      "warning_level_cms": 3.103,
+      "danger_level_cms": 16.241
+    },
+    {
+      "station_id": "06910800",
+      "latitude": 38.56701,
+      "longitude": -95.96163,
+      "drainage_area_km2": 444.6,
+      "warning_level_cms": 1.691,
+      "danger_level_cms": 7.936
+    },
+    {
+      "station_id": "06911900",
+      "latitude": 38.71069,
+      "longitude": -95.83603,
+      "drainage_area_km2": 293.06,
+      "warning_level_cms": 1.695,
+      "danger_level_cms": 9.489
+    },
+    {
+      "station_id": "06917000",
+      "latitude": 38.01897,
+      "longitude": -94.71367,
+      "drainage_area_km2": 765.78,
+      "warning_level_cms": 3.226,
+      "danger_level_cms": 14.597
+    },
+    {
+      "station_id": "06918460",
+      "latitude": 37.40237,
+      "longitude": -93.80203,
+      "drainage_area_km2": 650.69,
+      "warning_level_cms": 2.708,
+      "danger_level_cms": 6.553
+    },
+    {
+      "station_id": "06919500",
+      "latitude": 37.8342,
+      "longitude": -93.87549,
+      "drainage_area_km2": 1069.42,
+      "warning_level_cms": 3.415,
+      "danger_level_cms": 13.256
+    },
+    {
+      "station_id": "06921070",
+      "latitude": 37.68265,
+      "longitude": -93.37033,
+      "drainage_area_km2": 712.59,
+      "warning_level_cms": 3.144,
+      "danger_level_cms": 11.473
+    },
+    {
+      "station_id": "06921200",
+      "latitude": 37.75047,
+      "longitude": -93.26618,
+      "drainage_area_km2": 323.62,
+      "warning_level_cms": 2.977,
+      "danger_level_cms": 14.179
+    },
+    {
+      "station_id": "07057500",
+      "latitude": 36.62303,
+      "longitude": -92.24813,
+      "drainage_area_km2": 1456.44,
+      "warning_level_cms": 2.972,
+      "danger_level_cms": 7.214
+    },
+    {
+      "station_id": "07060710",
+      "latitude": 35.99535,
+      "longitude": -92.21265,
+      "drainage_area_km2": 150.03,
+      "warning_level_cms": 2.517,
+      "danger_level_cms": 9.224
+    },
+    {
+      "station_id": "07066000",
+      "latitude": 37.15408,
+      "longitude": -91.35816,
+      "drainage_area_km2": 1053.5,
+      "warning_level_cms": 3.371,
+      "danger_level_cms": 9.039
+    },
+    {
+      "station_id": "07083000",
+      "latitude": 39.17221,
+      "longitude": -106.38919,
+      "drainage_area_km2": 60.76,
+      "warning_level_cms": 6.561,
+      "danger_level_cms": 9.921
+    },
+    {
+      "station_id": "07142300",
+      "latitude": 37.87159,
+      "longitude": -98.87614,
+      "drainage_area_km2": 1819.94,
+      "warning_level_cms": 0.091,
+      "danger_level_cms": 0.242
+    },
+    {
+      "station_id": "07145700",
+      "latitude": 37.24955,
+      "longitude": -97.4039,
+      "drainage_area_km2": 399.81,
+      "warning_level_cms": 1.864,
+      "danger_level_cms": 11.047
+    },
+    {
+      "station_id": "07167500",
+      "latitude": 37.70821,
+      "longitude": -96.2236,
+      "drainage_area_km2": 319.62,
+      "warning_level_cms": 2.332,
+      "danger_level_cms": 11.774
+    },
+    {
+      "station_id": "07180500",
+      "latitude": 38.19645,
+      "longitude": -96.82458,
+      "drainage_area_km2": 275.51,
+      "warning_level_cms": 1.644,
+      "danger_level_cms": 9.538
+    },
+    {
+      "station_id": "07184000",
+      "latitude": 37.28125,
+      "longitude": -95.03267,
+      "drainage_area_km2": 510.84,
+      "warning_level_cms": 4.376,
+      "danger_level_cms": 15.148
+    },
+    {
+      "station_id": "07195800",
+      "latitude": 36.25548,
+      "longitude": -94.43394,
+      "drainage_area_km2": 38.23,
+      "warning_level_cms": 2.976,
+      "danger_level_cms": 9.953
+    },
+    {
+      "station_id": "07196900",
+      "latitude": 35.88008,
+      "longitude": -94.48661,
+      "drainage_area_km2": 106.35,
+      "warning_level_cms": 3.684,
+      "danger_level_cms": 15.333
+    },
+    {
+      "station_id": "07197000",
+      "latitude": 35.9212,
+      "longitude": -94.83856,
+      "drainage_area_km2": 808.45,
+      "warning_level_cms": 3.684,
+      "danger_level_cms": 10.888
+    },
+    {
+      "station_id": "07208500",
+      "latitude": 36.37226,
+      "longitude": -104.97,
+      "drainage_area_km2": 159.22,
+      "warning_level_cms": 0.806,
+      "danger_level_cms": 1.801
+    },
+    {
+      "station_id": "07261000",
+      "latitude": 35.2988,
+      "longitude": -92.40393,
+      "drainage_area_km2": 445.81,
+      "warning_level_cms": 5.428,
+      "danger_level_cms": 16.165
+    },
+    {
+      "station_id": "07263295",
+      "latitude": 34.8762,
+      "longitude": -92.77461,
+      "drainage_area_km2": 119.03,
+      "warning_level_cms": 5.773,
+      "danger_level_cms": 20.561
+    },
+    {
+      "station_id": "07291000",
+      "latitude": 31.50306,
+      "longitude": -90.7775,
+      "drainage_area_km2": 479.3,
+      "warning_level_cms": 4.307,
+      "danger_level_cms": 18.018
+    },
+    {
+      "station_id": "07299670",
+      "latitude": 34.35452,
+      "longitude": -99.74037,
+      "drainage_area_km2": 828.36,
+      "warning_level_cms": 0.153,
+      "danger_level_cms": 1.023
+    },
+    {
+      "station_id": "07301410",
+      "latitude": 35.4731,
+      "longitude": -100.12095,
+      "drainage_area_km2": 769.67,
+      "warning_level_cms": 0.079,
+      "danger_level_cms": 0.253
+    },
+    {
+      "station_id": "07315200",
+      "latitude": 33.81288,
+      "longitude": -98.08504,
+      "drainage_area_km2": 501.62,
+      "warning_level_cms": 0.207,
+      "danger_level_cms": 3.65
+    },
+    {
+      "station_id": "07315700",
+      "latitude": 34.00426,
+      "longitude": -97.56697,
+      "drainage_area_km2": 1488.69,
+      "warning_level_cms": 1.913,
+      "danger_level_cms": 7.605
+    },
+    {
+      "station_id": "07335700",
+      "latitude": 34.63844,
+      "longitude": -94.61272,
+      "drainage_area_km2": 102.57,
+      "warning_level_cms": 7.341,
+      "danger_level_cms": 25.235
+    },
+    {
+      "station_id": "07340300",
+      "latitude": 34.37955,
+      "longitude": -94.23576,
+      "drainage_area_km2": 230.43,
+      "warning_level_cms": 7.055,
+      "danger_level_cms": 24.557
+    },
+    {
+      "station_id": "07346045",
+      "latitude": 32.77792,
+      "longitude": -94.35742,
+      "drainage_area_km2": 959.89,
+      "warning_level_cms": 3.242,
+      "danger_level_cms": 7.505
+    },
+    {
+      "station_id": "07359610",
+      "latitude": 34.38278,
+      "longitude": -93.60611,
+      "drainage_area_km2": 342.23,
+      "warning_level_cms": 5.916,
+      "danger_level_cms": 19.858
+    },
+    {
+      "station_id": "07362100",
+      "latitude": 33.37596,
+      "longitude": -92.77711,
+      "drainage_area_km2": 996.08,
+      "warning_level_cms": 4.558,
+      "danger_level_cms": 10.49
+    },
+    {
+      "station_id": "07362587",
+      "latitude": 34.79759,
+      "longitude": -92.93351,
+      "drainage_area_km2": 69.77,
+      "warning_level_cms": 6.401,
+      "danger_level_cms": 25.791
+    },
+    {
+      "station_id": "07375000",
+      "latitude": 30.61602,
+      "longitude": -90.24869,
+      "drainage_area_km2": 249.35,
+      "warning_level_cms": 4.265,
+      "danger_level_cms": 13.476
+    },
+    {
+      "station_id": "08013000",
+      "latitude": 30.99602,
+      "longitude": -92.67375,
+      "drainage_area_km2": 1293.69,
+      "warning_level_cms": 5.734,
+      "danger_level_cms": 14.582
+    },
+    {
+      "station_id": "08014500",
+      "latitude": 30.69875,
+      "longitude": -92.89319,
+      "drainage_area_km2": 1305.15,
+      "warning_level_cms": 4.278,
+      "danger_level_cms": 11.946
+    },
+    {
+      "station_id": "08023080",
+      "latitude": 31.97933,
+      "longitude": -93.93408,
+      "drainage_area_km2": 187.61,
+      "warning_level_cms": 5.065,
+      "danger_level_cms": 16.57
+    },
+    {
+      "station_id": "08050800",
+      "latitude": 33.55455,
+      "longitude": -96.94723,
+      "drainage_area_km2": 100.93,
+      "warning_level_cms": 0.922,
+      "danger_level_cms": 11.118
+    },
+    {
+      "station_id": "08066200",
+      "latitude": 30.71631,
+      "longitude": -94.95882,
+      "drainage_area_km2": 364.12,
+      "warning_level_cms": 3.021,
+      "danger_level_cms": 18.078
+    },
+    {
+      "station_id": "08066300",
+      "latitude": 30.48139,
+      "longitude": -94.77972,
+      "drainage_area_km2": 383.57,
+      "warning_level_cms": 3.044,
+      "danger_level_cms": 9.681
+    },
+    {
+      "station_id": "08070000",
+      "latitude": 30.3366,
+      "longitude": -95.1041,
+      "drainage_area_km2": 841.06,
+      "warning_level_cms": 3.235,
+      "danger_level_cms": 10.651
+    },
+    {
+      "station_id": "08070200",
+      "latitude": 30.14549,
+      "longitude": -95.12438,
+      "drainage_area_km2": 989.37,
+      "warning_level_cms": 3.239,
+      "danger_level_cms": 9.285
+    },
+    {
+      "station_id": "08082700",
+      "latitude": 33.32927,
+      "longitude": -99.46508,
+      "drainage_area_km2": 276.04,
+      "warning_level_cms": 0.09,
+      "danger_level_cms": 1.502
+    },
+    {
+      "station_id": "08086212",
+      "latitude": 32.7329,
+      "longitude": -99.14063,
+      "drainage_area_km2": 1584.82,
+      "warning_level_cms": 0.165,
+      "danger_level_cms": 1.389
+    },
+    {
+      "station_id": "08086290",
+      "latitude": 32.64846,
+      "longitude": -99.00451,
+      "drainage_area_km2": 732.98,
+      "warning_level_cms": 0.161,
+      "danger_level_cms": 2.817
+    },
+    {
+      "station_id": "08101000",
+      "latitude": 31.28489,
+      "longitude": -97.88502,
+      "drainage_area_km2": 1177.1,
+      "warning_level_cms": 0.656,
+      "danger_level_cms": 3.16
+    },
+    {
+      "station_id": "08103900",
+      "latitude": 30.91157,
+      "longitude": -98.03697,
+      "drainage_area_km2": 86.0,
+      "warning_level_cms": 1.166,
+      "danger_level_cms": 3.595
+    },
+    {
+      "station_id": "08104900",
+      "latitude": 30.62575,
+      "longitude": -97.69112,
+      "drainage_area_km2": 342.62,
+      "warning_level_cms": 1.007,
+      "danger_level_cms": 2.656
+    },
+    {
+      "station_id": "08109700",
+      "latitude": 30.33938,
+      "longitude": -96.9047,
+      "drainage_area_km2": 610.13,
+      "warning_level_cms": 1.087,
+      "danger_level_cms": 6.163
+    },
+    {
+      "station_id": "08150800",
+      "latitude": 30.64352,
+      "longitude": -99.09588,
+      "drainage_area_km2": 557.52,
+      "warning_level_cms": 0.204,
+      "danger_level_cms": 0.92
+    },
+    {
+      "station_id": "08158700",
+      "latitude": 30.08299,
+      "longitude": -98.00779,
+      "drainage_area_km2": 320.34,
+      "warning_level_cms": 1.69,
+      "danger_level_cms": 4.182
+    },
+    {
+      "station_id": "08158810",
+      "latitude": 30.15549,
+      "longitude": -97.94001,
+      "drainage_area_km2": 31.79,
+      "warning_level_cms": 2.294,
+      "danger_level_cms": 6.569
+    },
+    {
+      "station_id": "08164300",
+      "latitude": 29.46691,
+      "longitude": -96.81276,
+      "drainage_area_km2": 861.54,
+      "warning_level_cms": 1.041,
+      "danger_level_cms": 9.62
+    },
+    {
+      "station_id": "08164600",
+      "latitude": 28.89138,
+      "longitude": -96.81915,
+      "drainage_area_km2": 253.92,
+      "warning_level_cms": 1.607,
+      "danger_level_cms": 11.201
+    },
+    {
+      "station_id": "08165300",
+      "latitude": 30.0641,
+      "longitude": -99.38699,
+      "drainage_area_km2": 435.99,
+      "warning_level_cms": 0.289,
+      "danger_level_cms": 0.535
+    },
+    {
+      "station_id": "08171300",
+      "latitude": 29.97938,
+      "longitude": -97.91,
+      "drainage_area_km2": 1067.47,
+      "warning_level_cms": 1.208,
+      "danger_level_cms": 3.283
+    },
+    {
+      "station_id": "08175000",
+      "latitude": 29.21525,
+      "longitude": -97.44943,
+      "drainage_area_km2": 1421.66,
+      "warning_level_cms": 0.923,
+      "danger_level_cms": 5.05
+    },
+    {
+      "station_id": "08176900",
+      "latitude": 28.86165,
+      "longitude": -97.22638,
+      "drainage_area_km2": 925.44,
+      "warning_level_cms": 0.472,
+      "danger_level_cms": 3.805
+    },
+    {
+      "station_id": "08178880",
+      "latitude": 29.72384,
+      "longitude": -99.07004,
+      "drainage_area_km2": 850.58,
+      "warning_level_cms": 1.343,
+      "danger_level_cms": 3.826
+    },
+    {
+      "station_id": "08189500",
+      "latitude": 28.29195,
+      "longitude": -97.27916,
+      "drainage_area_km2": 1808.29,
+      "warning_level_cms": 0.468,
+      "danger_level_cms": 4.675
+    },
+    {
+      "station_id": "08190000",
+      "latitude": 29.42857,
+      "longitude": -99.99729,
+      "drainage_area_km2": 1961.43,
+      "warning_level_cms": 0.683,
+      "danger_level_cms": 1.907
+    },
+    {
+      "station_id": "08190500",
+      "latitude": 29.47273,
+      "longitude": -100.23646,
+      "drainage_area_km2": 1799.09,
+      "warning_level_cms": 0.081,
+      "danger_level_cms": 0.394
+    },
+    {
+      "station_id": "08194200",
+      "latitude": 27.96501,
+      "longitude": -98.96697,
+      "drainage_area_km2": 1220.58,
+      "warning_level_cms": 0.107,
+      "danger_level_cms": 1.288
+    },
+    {
+      "station_id": "08195000",
+      "latitude": 29.48857,
+      "longitude": -99.70478,
+      "drainage_area_km2": 1028.29,
+      "warning_level_cms": 0.942,
+      "danger_level_cms": 2.395
+    },
+    {
+      "station_id": "08196000",
+      "latitude": 29.50468,
+      "longitude": -99.78145,
+      "drainage_area_km2": 326.98,
+      "warning_level_cms": 0.907,
+      "danger_level_cms": 3.131
+    },
+    {
+      "station_id": "08198500",
+      "latitude": 29.31431,
+      "longitude": -99.48047,
+      "drainage_area_km2": 624.35,
+      "warning_level_cms": 0.242,
+      "danger_level_cms": 1.629
+    },
+    {
+      "station_id": "08200000",
+      "latitude": 29.56967,
+      "longitude": -99.24671,
+      "drainage_area_km2": 249.11,
+      "warning_level_cms": 1.558,
+      "danger_level_cms": 4.626
+    },
+    {
+      "station_id": "08202700",
+      "latitude": 29.37079,
+      "longitude": -99.28782,
+      "drainage_area_km2": 434.75,
+      "warning_level_cms": 0.0,
+      "danger_level_cms": 0.071
+    },
+    {
+      "station_id": "08267500",
+      "latitude": 36.54169,
+      "longitude": -105.5564,
+      "drainage_area_km2": 96.26,
+      "warning_level_cms": 3.506,
+      "danger_level_cms": 5.685
+    },
+    {
+      "station_id": "08269000",
+      "latitude": 36.43947,
+      "longitude": -105.50362,
+      "drainage_area_km2": 163.27,
+      "warning_level_cms": 1.768,
+      "danger_level_cms": 3.39
+    },
+    {
+      "station_id": "08271000",
+      "latitude": 36.50836,
+      "longitude": -105.53084,
+      "drainage_area_km2": 43.77,
+      "warning_level_cms": 4.38,
+      "danger_level_cms": 7.054
+    },
+    {
+      "station_id": "08324000",
+      "latitude": 35.66169,
+      "longitude": -106.74337,
+      "drainage_area_km2": 1207.95,
+      "warning_level_cms": 0.507,
+      "danger_level_cms": 0.929
+    },
+    {
+      "station_id": "08377900",
+      "latitude": 35.77725,
+      "longitude": -105.65807,
+      "drainage_area_km2": 139.03,
+      "warning_level_cms": 2.827,
+      "danger_level_cms": 5.633
+    },
+    {
+      "station_id": "08378500",
+      "latitude": 35.70837,
+      "longitude": -105.68252,
+      "drainage_area_km2": 444.96,
+      "warning_level_cms": 2.129,
+      "danger_level_cms": 4.032
+    },
+    {
+      "station_id": "08380500",
+      "latitude": 35.65199,
+      "longitude": -105.3189,
+      "drainage_area_km2": 198.06,
+      "warning_level_cms": 0.92,
+      "danger_level_cms": 2.182
+    },
+    {
+      "station_id": "09035900",
+      "latitude": 39.79582,
+      "longitude": -106.03057,
+      "drainage_area_km2": 72.84,
+      "warning_level_cms": 6.63,
+      "danger_level_cms": 9.816
+    },
+    {
+      "station_id": "09047700",
+      "latitude": 39.59443,
+      "longitude": -105.97252,
+      "drainage_area_km2": 23.57,
+      "warning_level_cms": 2.886,
+      "danger_level_cms": 5.435
+    },
+    {
+      "station_id": "09065500",
+      "latitude": 39.62582,
+      "longitude": -106.27808,
+      "drainage_area_km2": 37.78,
+      "warning_level_cms": 12.456,
+      "danger_level_cms": 16.551
+    },
+    {
+      "station_id": "09066000",
+      "latitude": 39.59638,
+      "longitude": -106.26503,
+      "drainage_area_km2": 32.41,
+      "warning_level_cms": 9.446,
+      "danger_level_cms": 14.297
+    },
+    {
+      "station_id": "09066200",
+      "latitude": 39.64832,
+      "longitude": -106.32308,
+      "drainage_area_km2": 16.1,
+      "warning_level_cms": 10.053,
+      "danger_level_cms": 15.335
+    },
+    {
+      "station_id": "09066300",
+      "latitude": 39.64582,
+      "longitude": -106.38225,
+      "drainage_area_km2": 15.52,
+      "warning_level_cms": 5.412,
+      "danger_level_cms": 8.77
+    },
+    {
+      "station_id": "09081600",
+      "latitude": 39.23221,
+      "longitude": -107.22727,
+      "drainage_area_km2": 432.89,
+      "warning_level_cms": 7.038,
+      "danger_level_cms": 11.074
+    },
+    {
+      "station_id": "09107000",
+      "latitude": 38.86027,
+      "longitude": -106.5667,
+      "drainage_area_km2": 331.62,
+      "warning_level_cms": 3.774,
+      "danger_level_cms": 5.577
+    },
+    {
+      "station_id": "09210500",
+      "latitude": 42.09605,
+      "longitude": -110.41656,
+      "drainage_area_km2": 398.31,
+      "warning_level_cms": 1.984,
+      "danger_level_cms": 3.273
+    },
+    {
+      "station_id": "09223000",
+      "latitude": 42.11049,
+      "longitude": -110.70962,
+      "drainage_area_km2": 333.15,
+      "warning_level_cms": 3.959,
+      "danger_level_cms": 7.023
+    },
+    {
+      "station_id": "09306242",
+      "latitude": 39.92025,
+      "longitude": -108.47287,
+      "drainage_area_km2": 81.99,
+      "warning_level_cms": 0.093,
+      "danger_level_cms": 0.356
+    },
+    {
+      "station_id": "09312600",
+      "latitude": 39.87579,
+      "longitude": -111.03739,
+      "drainage_area_km2": 195.29,
+      "warning_level_cms": 1.533,
+      "danger_level_cms": 3.764
+    },
+    {
+      "station_id": "09352900",
+      "latitude": 37.4775,
+      "longitude": -107.54367,
+      "drainage_area_km2": 188.15,
+      "warning_level_cms": 7.458,
+      "danger_level_cms": 11.633
+    },
+    {
+      "station_id": "09378170",
+      "latitude": 37.84666,
+      "longitude": -109.36956,
+      "drainage_area_km2": 21.9,
+      "warning_level_cms": 0.823,
+      "danger_level_cms": 2.051
+    },
+    {
+      "station_id": "09386900",
+      "latitude": 35.28253,
+      "longitude": -108.55341,
+      "drainage_area_km2": 184.94,
+      "warning_level_cms": 0.293,
+      "danger_level_cms": 1.535
+    },
+    {
+      "station_id": "09404450",
+      "latitude": 37.33943,
+      "longitude": -112.60438,
+      "drainage_area_km2": 192.96,
+      "warning_level_cms": 0.41,
+      "danger_level_cms": 1.197
+    },
+    {
+      "station_id": "09430600",
+      "latitude": 33.16673,
+      "longitude": -108.64978,
+      "drainage_area_km2": 190.52,
+      "warning_level_cms": 1.728,
+      "danger_level_cms": 3.933
+    },
+    {
+      "station_id": "09447800",
+      "latitude": 32.95562,
+      "longitude": -109.53119,
+      "drainage_area_km2": 781.96,
+      "warning_level_cms": 0.031,
+      "danger_level_cms": 0.214
+    },
+    {
+      "station_id": "09484600",
+      "latitude": 32.03591,
+      "longitude": -110.67758,
+      "drainage_area_km2": 1179.59,
+      "warning_level_cms": 0.02,
+      "danger_level_cms": 0.19
+    },
+    {
+      "station_id": "09492400",
+      "latitude": 33.82227,
+      "longitude": -109.81454,
+      "drainage_area_km2": 128.97,
+      "warning_level_cms": 2.514,
+      "danger_level_cms": 4.658
+    },
+    {
+      "station_id": "09494000",
+      "latitude": 33.73644,
+      "longitude": -110.16677,
+      "drainage_area_km2": 1628.23,
+      "warning_level_cms": 0.889,
+      "danger_level_cms": 1.675
+    },
+    {
+      "station_id": "09497980",
+      "latitude": 33.82783,
+      "longitude": -110.85623,
+      "drainage_area_km2": 516.8,
+      "warning_level_cms": 0.408,
+      "danger_level_cms": 1.762
+    },
+    {
+      "station_id": "09505350",
+      "latitude": 34.72863,
+      "longitude": -111.77571,
+      "drainage_area_km2": 365.66,
+      "warning_level_cms": 1.207,
+      "danger_level_cms": 3.931
+    },
+    {
+      "station_id": "09505800",
+      "latitude": 34.53864,
+      "longitude": -111.69404,
+      "drainage_area_km2": 614.94,
+      "warning_level_cms": 0.555,
+      "danger_level_cms": 2.467
+    },
+    {
+      "station_id": "09508300",
+      "latitude": 34.16087,
+      "longitude": -111.69292,
+      "drainage_area_km2": 93.0,
+      "warning_level_cms": 1.177,
+      "danger_level_cms": 5.901
+    },
+    {
+      "station_id": "09510200",
+      "latitude": 33.69421,
+      "longitude": -111.5418,
+      "drainage_area_km2": 425.31,
+      "warning_level_cms": 0.379,
+      "danger_level_cms": 2.205
+    },
+    {
+      "station_id": "09512280",
+      "latitude": 33.88726,
+      "longitude": -111.95404,
+      "drainage_area_km2": 188.71,
+      "warning_level_cms": 0.073,
+      "danger_level_cms": 0.74
+    },
+    {
+      "station_id": "09513780",
+      "latitude": 33.9742,
+      "longitude": -112.09905,
+      "drainage_area_km2": 177.47,
+      "warning_level_cms": 0.27,
+      "danger_level_cms": 2.098
+    },
+    {
+      "station_id": "10234500",
+      "latitude": 38.28053,
+      "longitude": -112.56827,
+      "drainage_area_km2": 236.42,
+      "warning_level_cms": 1.66,
+      "danger_level_cms": 3.68
+    },
+    {
+      "station_id": "10244950",
+      "latitude": 39.20154,
+      "longitude": -114.68916,
+      "drainage_area_km2": 28.2,
+      "warning_level_cms": 1.203,
+      "danger_level_cms": 2.571
+    },
+    {
+      "station_id": "10259000",
+      "latitude": 33.76002,
+      "longitude": -116.55002,
+      "drainage_area_km2": 22.46,
+      "warning_level_cms": 0.759,
+      "danger_level_cms": 1.865
+    },
+    {
+      "station_id": "10336645",
+      "latitude": 39.05185,
+      "longitude": -120.11852,
+      "drainage_area_km2": 19.6,
+      "warning_level_cms": 10.454,
+      "danger_level_cms": 19.319
+    },
+    {
+      "station_id": "10336660",
+      "latitude": 39.10741,
+      "longitude": -120.16214,
+      "drainage_area_km2": 29.8,
+      "warning_level_cms": 13.399,
+      "danger_level_cms": 23.87
+    },
+    {
+      "station_id": "10343500",
+      "latitude": 39.43157,
+      "longitude": -120.23798,
+      "drainage_area_km2": 27.6,
+      "warning_level_cms": 4.265,
+      "danger_level_cms": 9.084
+    },
+    {
+      "station_id": "11124500",
+      "latitude": 34.59666,
+      "longitude": -119.90875,
+      "drainage_area_km2": 191.52,
+      "warning_level_cms": 0.751,
+      "danger_level_cms": 3.067
+    },
+    {
+      "station_id": "11141280",
+      "latitude": 35.23553,
+      "longitude": -120.47239,
+      "drainage_area_km2": 54.01,
+      "warning_level_cms": 1.273,
+      "danger_level_cms": 4.401
+    },
+    {
+      "station_id": "11143000",
+      "latitude": 36.2458,
+      "longitude": -121.77329,
+      "drainage_area_km2": 120.61,
+      "warning_level_cms": 9.222,
+      "danger_level_cms": 23.256
+    },
+    {
+      "station_id": "11148900",
+      "latitude": 35.78858,
+      "longitude": -121.09381,
+      "drainage_area_km2": 403.45,
+      "warning_level_cms": 4.094,
+      "danger_level_cms": 17.517
+    },
+    {
+      "station_id": "11151300",
+      "latitude": 36.26802,
+      "longitude": -121.0663,
+      "drainage_area_km2": 608.23,
+      "warning_level_cms": 0.16,
+      "danger_level_cms": 1.088
+    },
+    {
+      "station_id": "11176400",
+      "latitude": 37.56132,
+      "longitude": -121.68384,
+      "drainage_area_km2": 338.56,
+      "warning_level_cms": 0.944,
+      "danger_level_cms": 4.778
+    },
+    {
+      "station_id": "11264500",
+      "latitude": 37.73159,
+      "longitude": -119.55877,
+      "drainage_area_km2": 467.98,
+      "warning_level_cms": 8.69,
+      "danger_level_cms": 15.823
+    },
+    {
+      "station_id": "11266500",
+      "latitude": 37.71687,
+      "longitude": -119.66628,
+      "drainage_area_km2": 833.08,
+      "warning_level_cms": 8.626,
+      "danger_level_cms": 15.239
+    },
+    {
+      "station_id": "11284400",
+      "latitude": 37.84187,
+      "longitude": -120.18491,
+      "drainage_area_km2": 41.72,
+      "warning_level_cms": 1.966,
+      "danger_level_cms": 9.629
+    },
+    {
+      "station_id": "11381500",
+      "latitude": 40.0546,
+      "longitude": -122.02415,
+      "drainage_area_km2": 337.63,
+      "warning_level_cms": 5.968,
+      "danger_level_cms": 13.354
+    },
+    {
+      "station_id": "11451100",
+      "latitude": 39.16545,
+      "longitude": -122.61999,
+      "drainage_area_km2": 155.09,
+      "warning_level_cms": 7.39,
+      "danger_level_cms": 23.278
+    },
+    {
+      "station_id": "11468500",
+      "latitude": 39.42822,
+      "longitude": -123.73779,
+      "drainage_area_km2": 273.51,
+      "warning_level_cms": 8.002,
+      "danger_level_cms": 20.186
+    },
+    {
+      "station_id": "11473900",
+      "latitude": 39.70627,
+      "longitude": -123.32529,
+      "drainage_area_km2": 1925.01,
+      "warning_level_cms": 7.28,
+      "danger_level_cms": 16.44
+    },
+    {
+      "station_id": "11475560",
+      "latitude": 39.7296,
+      "longitude": -123.64391,
+      "drainage_area_km2": 16.79,
+      "warning_level_cms": 15.032,
+      "danger_level_cms": 36.634
+    },
+    {
+      "station_id": "11476600",
+      "latitude": 40.35125,
+      "longitude": -124.00393,
+      "drainage_area_km2": 71.85,
+      "warning_level_cms": 14.762,
+      "danger_level_cms": 33.614
+    },
+    {
+      "station_id": "11478500",
+      "latitude": 40.48042,
+      "longitude": -123.89088,
+      "drainage_area_km2": 572.38,
+      "warning_level_cms": 14.97,
+      "danger_level_cms": 38.11
+    },
+    {
+      "station_id": "11480390",
+      "latitude": 40.28431,
+      "longitude": -123.3353,
+      "drainage_area_km2": 242.6,
+      "warning_level_cms": 11.183,
+      "danger_level_cms": 28.99
+    },
+    {
+      "station_id": "11481200",
+      "latitude": 41.01096,
+      "longitude": -124.08173,
+      "drainage_area_km2": 105.4,
+      "warning_level_cms": 12.688,
+      "danger_level_cms": 27.485
+    },
+    {
+      "station_id": "11482500",
+      "latitude": 41.29929,
+      "longitude": -124.05118,
+      "drainage_area_km2": 718.04,
+      "warning_level_cms": 12.849,
+      "danger_level_cms": 25.59
+    },
+    {
+      "station_id": "11522500",
+      "latitude": 41.37763,
+      "longitude": -123.47756,
+      "drainage_area_km2": 1943.12,
+      "warning_level_cms": 6.868,
+      "danger_level_cms": 12.734
+    },
+    {
+      "station_id": "11523200",
+      "latitude": 41.11126,
+      "longitude": -122.70558,
+      "drainage_area_km2": 382.94,
+      "warning_level_cms": 9.646,
+      "danger_level_cms": 17.632
+    },
+    {
+      "station_id": "11528700",
+      "latitude": 40.64986,
+      "longitude": -123.4942,
+      "drainage_area_km2": 1980.08,
+      "warning_level_cms": 5.949,
+      "danger_level_cms": 13.456
+    },
+    {
+      "station_id": "11532500",
+      "latitude": 41.7915,
+      "longitude": -124.07619,
+      "drainage_area_km2": 1577.96,
+      "warning_level_cms": 20.481,
+      "danger_level_cms": 44.741
+    },
+    {
+      "station_id": "12010000",
+      "latitude": 46.37399,
+      "longitude": -123.74348,
+      "drainage_area_km2": 142.18,
+      "warning_level_cms": 27.498,
+      "danger_level_cms": 54.21
+    },
+    {
+      "station_id": "12013500",
+      "latitude": 46.65093,
+      "longitude": -123.65266,
+      "drainage_area_km2": 337.69,
+      "warning_level_cms": 18.478,
+      "danger_level_cms": 38.2
+    },
+    {
+      "station_id": "12020000",
+      "latitude": 46.61732,
+      "longitude": -123.27764,
+      "drainage_area_km2": 294.22,
+      "warning_level_cms": 18.939,
+      "danger_level_cms": 40.137
+    },
+    {
+      "station_id": "12025700",
+      "latitude": 46.7726,
+      "longitude": -122.59401,
+      "drainage_area_km2": 103.3,
+      "warning_level_cms": 16.934,
+      "danger_level_cms": 31.391
+    },
+    {
+      "station_id": "12035000",
+      "latitude": 47.00065,
+      "longitude": -123.49488,
+      "drainage_area_km2": 769.9,
+      "warning_level_cms": 22.473,
+      "danger_level_cms": 45.467
+    },
+    {
+      "station_id": "12040500",
+      "latitude": 47.53786,
+      "longitude": -124.31575,
+      "drainage_area_km2": 1153.44,
+      "warning_level_cms": 30.802,
+      "danger_level_cms": 67.908
+    },
+    {
+      "station_id": "12041200",
+      "latitude": 47.80675,
+      "longitude": -124.25103,
+      "drainage_area_km2": 655.8,
+      "warning_level_cms": 25.958,
+      "danger_level_cms": 54.23
+    },
+    {
+      "station_id": "12048000",
+      "latitude": 48.01426,
+      "longitude": -123.13268,
+      "drainage_area_km2": 405.01,
+      "warning_level_cms": 6.011,
+      "danger_level_cms": 10.661
+    },
+    {
+      "station_id": "12054000",
+      "latitude": 47.68398,
+      "longitude": -123.01155,
+      "drainage_area_km2": 171.68,
+      "warning_level_cms": 16.931,
+      "danger_level_cms": 35.016
+    },
+    {
+      "station_id": "12056500",
+      "latitude": 47.51426,
+      "longitude": -123.32989,
+      "drainage_area_km2": 146.97,
+      "warning_level_cms": 26.999,
+      "danger_level_cms": 57.061
+    },
+    {
+      "station_id": "12073500",
+      "latitude": 47.38926,
+      "longitude": -122.69902,
+      "drainage_area_km2": 15.67,
+      "warning_level_cms": 4.735,
+      "danger_level_cms": 10.653
+    },
+    {
+      "station_id": "12082500",
+      "latitude": 46.75261,
+      "longitude": -122.08372,
+      "drainage_area_km2": 350.0,
+      "warning_level_cms": 12.007,
+      "danger_level_cms": 23.191
+    },
+    {
+      "station_id": "12092000",
+      "latitude": 46.90372,
+      "longitude": -122.03511,
+      "drainage_area_km2": 240.88,
+      "warning_level_cms": 11.438,
+      "danger_level_cms": 21.642
+    },
+    {
+      "station_id": "12114500",
+      "latitude": 47.34205,
+      "longitude": -121.54899,
+      "drainage_area_km2": 66.56,
+      "warning_level_cms": 17.541,
+      "danger_level_cms": 30.459
+    },
+    {
+      "station_id": "12115000",
+      "latitude": 47.37011,
+      "longitude": -121.6251,
+      "drainage_area_km2": 102.8,
+      "warning_level_cms": 16.111,
+      "danger_level_cms": 30.166
+    },
+    {
+      "station_id": "12117000",
+      "latitude": 47.38649,
+      "longitude": -121.84622,
+      "drainage_area_km2": 44.85,
+      "warning_level_cms": 13.25,
+      "danger_level_cms": 23.741
+    },
+    {
+      "station_id": "12143600",
+      "latitude": 47.4526,
+      "longitude": -121.71788,
+      "drainage_area_km2": 165.01,
+      "warning_level_cms": 17.522,
+      "danger_level_cms": 35.947
+    },
+    {
+      "station_id": "12144000",
+      "latitude": 47.49288,
+      "longitude": -121.79011,
+      "drainage_area_km2": 210.11,
+      "warning_level_cms": 15.845,
+      "danger_level_cms": 29.549
+    },
+    {
+      "station_id": "12145500",
+      "latitude": 47.53982,
+      "longitude": -121.909,
+      "drainage_area_km2": 78.98,
+      "warning_level_cms": 13.845,
+      "danger_level_cms": 28.555
+    },
+    {
+      "station_id": "12147500",
+      "latitude": 47.71232,
+      "longitude": -121.78873,
+      "drainage_area_km2": 102.89,
+      "warning_level_cms": 21.599,
+      "danger_level_cms": 46.182
+    },
+    {
+      "station_id": "12167000",
+      "latitude": 48.26149,
+      "longitude": -122.04764,
+      "drainage_area_km2": 683.75,
+      "warning_level_cms": 19.206,
+      "danger_level_cms": 44.019
+    },
+    {
+      "station_id": "12175500",
+      "latitude": 48.67263,
+      "longitude": -121.0729,
+      "drainage_area_km2": 273.82,
+      "warning_level_cms": 15.313,
+      "danger_level_cms": 21.528
+    },
+    {
+      "station_id": "12178100",
+      "latitude": 48.65596,
+      "longitude": -121.23846,
+      "drainage_area_km2": 69.68,
+      "warning_level_cms": 16.595,
+      "danger_level_cms": 29.34
+    },
+    {
+      "station_id": "12186000",
+      "latitude": 48.16872,
+      "longitude": -121.47067,
+      "drainage_area_km2": 398.44,
+      "warning_level_cms": 18.313,
+      "danger_level_cms": 31.345
+    },
+    {
+      "station_id": "12189500",
+      "latitude": 48.42456,
+      "longitude": -121.56846,
+      "drainage_area_km2": 1855.32,
+      "warning_level_cms": 14.052,
+      "danger_level_cms": 23.969
+    },
+    {
+      "station_id": "12375900",
+      "latitude": 47.4916,
+      "longitude": -114.02677,
+      "drainage_area_km2": 19.72,
+      "warning_level_cms": 10.239,
+      "danger_level_cms": 16.274
+    },
+    {
+      "station_id": "12377150",
+      "latitude": 47.32299,
+      "longitude": -113.97955,
+      "drainage_area_km2": 32.18,
+      "warning_level_cms": 15.482,
+      "danger_level_cms": 23.141
+    },
+    {
+      "station_id": "12381400",
+      "latitude": 47.19549,
+      "longitude": -113.85065,
+      "drainage_area_km2": 150.95,
+      "warning_level_cms": 5.127,
+      "danger_level_cms": 8.689
+    },
+    {
+      "station_id": "12390700",
+      "latitude": 47.58605,
+      "longitude": -115.35515,
+      "drainage_area_km2": 470.23,
+      "warning_level_cms": 4.335,
+      "danger_level_cms": 6.831
+    },
+    {
+      "station_id": "12411000",
+      "latitude": 47.70611,
+      "longitude": -115.97917,
+      "drainage_area_km2": 867.48,
+      "warning_level_cms": 8.177,
+      "danger_level_cms": 14.221
+    },
+    {
+      "station_id": "12447390",
+      "latitude": 48.82292,
+      "longitude": -120.14592,
+      "drainage_area_km2": 58.1,
+      "warning_level_cms": 8.062,
+      "danger_level_cms": 13.267
+    },
+    {
+      "station_id": "12451000",
+      "latitude": 48.32958,
+      "longitude": -120.69177,
+      "drainage_area_km2": 830.6,
+      "warning_level_cms": 14.184,
+      "danger_level_cms": 20.527
+    },
+    {
+      "station_id": "12488500",
+      "latitude": 46.97762,
+      "longitude": -121.1687,
+      "drainage_area_km2": 205.17,
+      "warning_level_cms": 9.514,
+      "danger_level_cms": 14.558
+    },
+    {
+      "station_id": "13011500",
+      "latitude": 43.85028,
+      "longitude": -110.51778,
+      "drainage_area_km2": 404.08,
+      "warning_level_cms": 9.638,
+      "danger_level_cms": 16.029
+    },
+    {
+      "station_id": "13011900",
+      "latitude": 43.83806,
+      "longitude": -110.44111,
+      "drainage_area_km2": 851.8,
+      "warning_level_cms": 8.246,
+      "danger_level_cms": 12.293
+    },
+    {
+      "station_id": "13018300",
+      "latitude": 43.45215,
+      "longitude": -110.70409,
+      "drainage_area_km2": 27.9,
+      "warning_level_cms": 4.173,
+      "danger_level_cms": 8.134
+    },
+    {
+      "station_id": "13023000",
+      "latitude": 43.14278,
+      "longitude": -110.97667,
+      "drainage_area_km2": 1161.93,
+      "warning_level_cms": 5.014,
+      "danger_level_cms": 7.768
+    },
+    {
+      "station_id": "13161500",
+      "latitude": 41.93324,
+      "longitude": -115.67453,
+      "drainage_area_km2": 986.13,
+      "warning_level_cms": 1.119,
+      "danger_level_cms": 1.945
+    },
+    {
+      "station_id": "13235000",
+      "latitude": 44.08528,
+      "longitude": -115.62222,
+      "drainage_area_km2": 1163.23,
+      "warning_level_cms": 6.216,
+      "danger_level_cms": 10.212
+    },
+    {
+      "station_id": "13240000",
+      "latitude": 44.91361,
+      "longitude": -115.99722,
+      "drainage_area_km2": 125.57,
+      "warning_level_cms": 14.413,
+      "danger_level_cms": 22.199
+    },
+    {
+      "station_id": "13313000",
+      "latitude": 44.96167,
+      "longitude": -115.5,
+      "drainage_area_km2": 561.94,
+      "warning_level_cms": 6.675,
+      "danger_level_cms": 12.249
+    },
+    {
+      "station_id": "13331500",
+      "latitude": 45.61987,
+      "longitude": -117.72659,
+      "drainage_area_km2": 618.93,
+      "warning_level_cms": 6.894,
+      "danger_level_cms": 10.386
+    },
+    {
+      "station_id": "14020000",
+      "latitude": 45.71958,
+      "longitude": -118.32329,
+      "drainage_area_km2": 341.43,
+      "warning_level_cms": 5.549,
+      "danger_level_cms": 10.102
+    },
+    {
+      "station_id": "14096850",
+      "latitude": 44.95873,
+      "longitude": -121.39423,
+      "drainage_area_km2": 374.62,
+      "warning_level_cms": 1.279,
+      "danger_level_cms": 2.451
+    },
+    {
+      "station_id": "14137000",
+      "latitude": 45.39956,
+      "longitude": -122.13731,
+      "drainage_area_km2": 674.24,
+      "warning_level_cms": 11.874,
+      "danger_level_cms": 22.407
+    },
+    {
+      "station_id": "14138800",
+      "latitude": 45.45262,
+      "longitude": -121.89147,
+      "drainage_area_km2": 21.29,
+      "warning_level_cms": 24.228,
+      "danger_level_cms": 48.036
+    },
+    {
+      "station_id": "14138870",
+      "latitude": 45.48012,
+      "longitude": -122.02564,
+      "drainage_area_km2": 14.02,
+      "warning_level_cms": 20.27,
+      "danger_level_cms": 37.826
+    },
+    {
+      "station_id": "14138900",
+      "latitude": 45.49429,
+      "longitude": -122.03592,
+      "drainage_area_km2": 21.68,
+      "warning_level_cms": 27.583,
+      "danger_level_cms": 52.08
+    },
+    {
+      "station_id": "14139800",
+      "latitude": 45.44456,
+      "longitude": -122.10953,
+      "drainage_area_km2": 40.7,
+      "warning_level_cms": 22.442,
+      "danger_level_cms": 42.352
+    },
+    {
+      "station_id": "14141500",
+      "latitude": 45.4154,
+      "longitude": -122.17148,
+      "drainage_area_km2": 59.87,
+      "warning_level_cms": 18.592,
+      "danger_level_cms": 33.85
+    },
+    {
+      "station_id": "14154500",
+      "latitude": 43.73596,
+      "longitude": -122.8734,
+      "drainage_area_km2": 546.81,
+      "warning_level_cms": 8.96,
+      "danger_level_cms": 19.557
+    },
+    {
+      "station_id": "14158790",
+      "latitude": 44.33457,
+      "longitude": -122.04701,
+      "drainage_area_km2": 40.57,
+      "warning_level_cms": 17.446,
+      "danger_level_cms": 36.687
+    },
+    {
+      "station_id": "14166500",
+      "latitude": 44.04984,
+      "longitude": -123.42621,
+      "drainage_area_km2": 226.52,
+      "warning_level_cms": 9.063,
+      "danger_level_cms": 18.348
+    },
+    {
+      "station_id": "14182500",
+      "latitude": 44.79151,
+      "longitude": -122.57897,
+      "drainage_area_km2": 286.85,
+      "warning_level_cms": 19.346,
+      "danger_level_cms": 38.846
+    },
+    {
+      "station_id": "14185000",
+      "latitude": 44.39179,
+      "longitude": -122.49758,
+      "drainage_area_km2": 458.18,
+      "warning_level_cms": 14.041,
+      "danger_level_cms": 27.47
+    },
+    {
+      "station_id": "14185900",
+      "latitude": 44.54012,
+      "longitude": -122.43591,
+      "drainage_area_km2": 258.2,
+      "warning_level_cms": 21.147,
+      "danger_level_cms": 42.652
+    },
+    {
+      "station_id": "14187000",
+      "latitude": 44.37235,
+      "longitude": -122.62314,
+      "drainage_area_km2": 134.75,
+      "warning_level_cms": 12.815,
+      "danger_level_cms": 23.742
+    },
+    {
+      "station_id": "14216500",
+      "latitude": 46.07567,
+      "longitude": -121.9987,
+      "drainage_area_km2": 349.52,
+      "warning_level_cms": 16.961,
+      "danger_level_cms": 27.646
+    },
+    {
+      "station_id": "14222500",
+      "latitude": 45.83678,
+      "longitude": -122.46621,
+      "drainage_area_km2": 323.89,
+      "warning_level_cms": 18.349,
+      "danger_level_cms": 31.947
+    },
+    {
+      "station_id": "14236200",
+      "latitude": 46.59538,
+      "longitude": -122.45956,
+      "drainage_area_km2": 360.99,
+      "warning_level_cms": 17.616,
+      "danger_level_cms": 31.946
+    },
+    {
+      "station_id": "14301000",
+      "latitude": 45.704,
+      "longitude": -123.7554,
+      "drainage_area_km2": 1743.54,
+      "warning_level_cms": 14.594,
+      "danger_level_cms": 27.228
+    },
+    {
+      "station_id": "14303200",
+      "latitude": 45.32428,
+      "longitude": -123.5465,
+      "drainage_area_km2": 8.06,
+      "warning_level_cms": 18.678,
+      "danger_level_cms": 38.294
+    },
+    {
+      "station_id": "14305500",
+      "latitude": 44.71512,
+      "longitude": -123.88733,
+      "drainage_area_km2": 526.33,
+      "warning_level_cms": 24.191,
+      "danger_level_cms": 46.955
+    },
+    {
+      "station_id": "14306340",
+      "latitude": 44.2479,
+      "longitude": -123.63649,
+      "drainage_area_km2": 14.73,
+      "warning_level_cms": 17.447,
+      "danger_level_cms": 38.133
+    },
+    {
+      "station_id": "14306500",
+      "latitude": 44.38595,
+      "longitude": -123.83178,
+      "drainage_area_km2": 857.16,
+      "warning_level_cms": 14.987,
+      "danger_level_cms": 27.752
+    },
+    {
+      "station_id": "14308990",
+      "latitude": 42.82318,
+      "longitude": -123.12589,
+      "drainage_area_km2": 167.76,
+      "warning_level_cms": 4.543,
+      "danger_level_cms": 11.071
+    },
+    {
+      "station_id": "14309500",
+      "latitude": 42.804,
+      "longitude": -123.61091,
+      "drainage_area_km2": 224.92,
+      "warning_level_cms": 10.176,
+      "danger_level_cms": 24.298
+    },
+    {
+      "station_id": "14316700",
+      "latitude": 43.34984,
+      "longitude": -122.72894,
+      "drainage_area_km2": 587.9,
+      "warning_level_cms": 10.743,
+      "danger_level_cms": 22.725
+    },
+    {
+      "station_id": "14325000",
+      "latitude": 42.8915,
+      "longitude": -124.07065,
+      "drainage_area_km2": 443.07,
+      "warning_level_cms": 16.853,
+      "danger_level_cms": 37.217
+    },
+    {
+      "station_id": "14362250",
+      "latitude": 42.15401,
+      "longitude": -123.07532,
+      "drainage_area_km2": 41.42,
+      "warning_level_cms": 1.337,
+      "danger_level_cms": 3.691
+    },
+    {
+      "station_id": "14400000",
+      "latitude": 42.12344,
+      "longitude": -124.18731,
+      "drainage_area_km2": 702.63,
+      "warning_level_cms": 30.088,
+      "danger_level_cms": 57.844
+    }
+  ]
+}
