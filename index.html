@@ -79,6 +79,10 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);overflow:hid
 .pfoot{padding:6px 14px 10px;border-top:1px solid var(--border);font-size:10px;color:var(--text2);display:flex;justify-content:space-between}
 .pfoot a{color:var(--accent);text-decoration:none}
 
+.corr-bar{display:flex;align-items:center;gap:8px;padding:4px 14px 6px;font-size:11px;color:var(--text2)}
+.corr-bar label{font-weight:500;white-space:nowrap}
+.corr-bar select{font-family:var(--mono);font-size:11px;padding:2px 6px;border:1px solid var(--border);border-radius:4px;background:var(--surface);color:var(--text);cursor:pointer}
+
 .toast{
   position:absolute;z-index:850;bottom:70px;left:50%;transform:translateX(-50%);
   background:var(--surface);border:1px solid var(--border);border-radius:8px;
@@ -128,6 +132,15 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);overflow:hid
     <button class="ph-x" id="pX">✕</button>
   </div>
   <div class="pchips" id="pC"></div>
+  <div class="corr-bar">
+    <label>Correction:</label>
+    <select id="corrSel">
+      <option value="none">None (raw model)</option>
+      <option value="taper">Taper Blending (HEC-HMS)</option>
+      <option value="mean_bias">Mean Bias</option>
+      <option value="ar" selected>AR Error (recommended)</option>
+    </select>
+  </div>
   <div id="chart"></div>
   <div class="pfoot">
     <span>Research demo only — not for operational decisions.</span>
@@ -150,6 +163,8 @@ const DATA_ROOT = 'data';
 let fcData = null, stMeta = null, stNames = {}, basinIdx = {};
 let echart = null, selMarker = null;
 let basinsLayer = null, riverLayer = null, hlLayer = null, markerLayer = null;
+let corrMethod = 'ar';   // current correction method
+let curStation = null;    // current station data for redraw
 
 const SC = { low: '#16a34a', medium: '#ca8a04', high: '#ea580c', very_high: '#dc2626' };
 const SR = { low: 5, medium: 7, high: 9, very_high: 11 };
@@ -312,6 +327,7 @@ function openPanel(s, marker, name) {
   const feat = basinIdx[s.station_id];
   if (feat) hlLayer.addData(feat);
 
+  curStation = s;
   drawChart(s);
 }
 
@@ -323,9 +339,14 @@ function closePanel() {
     if (prev) selMarker.setStyle({ weight: 1.5, color: SC[prev.status] });
     selMarker = null;
   }
+  curStation = null;
 }
 document.getElementById('pX').onclick = closePanel;
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closePanel(); });
+document.getElementById('corrSel').onchange = function () {
+  corrMethod = this.value;
+  if (curStation) drawChart(curStation);
+};
 
 // ═══ Chart ═══
 function drawChart(s) {
@@ -337,6 +358,14 @@ function drawChart(s) {
   const hT = fcData.history_hours.map(h => base + h * 3.6e6);
   const oT = fcData.observed_hours.map(h => base + h * 3.6e6);
   const fT = fcData.lead_time_hours.map(h => base + h * 3.6e6);
+
+  // Apply correction (clamp to zero — negative discharge is unphysical)
+  const corr = (corrMethod !== 'none' && s.corrections && s.corrections[corrMethod])
+    ? s.corrections[corrMethod] : null;
+  const adj = (v, i) => v != null && corr && i < corr.length ? Math.max(0, v + corr[i]) : v;
+  const q10 = s.discharge_q10_cms.map((v, i) => adj(v, i));
+  const q50 = s.discharge_q50_cms.map((v, i) => adj(v, i));
+  const q90 = s.discharge_q90_cms.map((v, i) => adj(v, i));
 
   echart.setOption({
     backgroundColor: 'transparent', animation: true, animationDuration: 300,
@@ -374,14 +403,14 @@ function drawChart(s) {
         data: oT.map((t, i) => [t, s.observed_discharge_cms[i]]),
         lineStyle: { color: '#16a34a', width: 1.8, type: 'dashed' }, itemStyle: { color: '#16a34a' }, z: 6 },
       { name: '_base', type: 'line', showSymbol: false, stack: 'cf',
-        data: fT.map((t, i) => [t, s.discharge_q10_cms[i]]),
+        data: fT.map((t, i) => [t, q10[i]]),
         lineStyle: { opacity: 0 }, areaStyle: { opacity: 0 }, itemStyle: { color: 'transparent' }, z: 2 },
       { name: 'P10–P90', type: 'line', showSymbol: false, stack: 'cf',
-        data: fT.map((t, i) => [t, s.discharge_q90_cms[i] - s.discharge_q10_cms[i]]),
+        data: fT.map((t, i) => [t, q90[i] - q10[i]]),
         lineStyle: { opacity: 0 }, areaStyle: { color: 'rgba(37,99,235,0.12)' },
         itemStyle: { color: 'rgba(37,99,235,0.25)' }, z: 2 },
       { name: 'Forecast (P50)', type: 'line', showSymbol: false,
-        data: fT.map((t, i) => [t, s.discharge_q50_cms[i]]),
+        data: fT.map((t, i) => [t, q50[i]]),
         lineStyle: { color: '#2563eb', width: 2 }, itemStyle: { color: '#2563eb' }, z: 4,
         markLine: { silent: true, symbol: 'none',
           lineStyle: { color: '#9ca3af', type: 'solid', width: 1 },
