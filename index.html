@@ -417,12 +417,32 @@ function drawChart(s) {
           label: { show: true, formatter: 'Issue time', color: '#6b7085', fontSize: 10,
             fontFamily: 'DM Sans', position: 'insideStartTop' },
           data: [{ xAxis: base }] } },
-      { name: 'Warning', type: 'line', showSymbol: false,
-        data: [[hT[0], s.warning_level_cms], [fT[fT.length - 1], s.warning_level_cms]],
-        lineStyle: { color: '#ea580c', width: 1, type: 'dashed' }, itemStyle: { color: '#ea580c' }, z: 1 },
-      { name: 'Danger', type: 'line', showSymbol: false,
-        data: [[hT[0], s.danger_level_cms], [fT[fT.length - 1], s.danger_level_cms]],
-        lineStyle: { color: '#dc2626', width: 1, type: 'dashed' }, itemStyle: { color: '#dc2626' }, z: 1 }
+      // Threshold lines: only show if peak flow reaches 20% of warning level
+      // (otherwise they compress the hydrograph against x-axis)
+      ...(() => {
+        const allVals = [
+          ...(s.history_discharge_cms || []),
+          ...(s.observed_discharge_cms || []),
+          ...q90
+        ].filter(v => v != null && !isNaN(v));
+        const peakFlow = allVals.length > 0 ? Math.max(...allVals) : 0;
+        const series = [];
+        if (peakFlow > s.warning_level_cms * 0.2) {
+          series.push({ name: 'Warning (5-yr)', type: 'line', showSymbol: false,
+            data: [[hT[0], s.warning_level_cms], [fT[fT.length - 1], s.warning_level_cms]],
+            lineStyle: { color: '#ea580c', width: 1, type: 'dashed' }, itemStyle: { color: '#ea580c' }, z: 1,
+            markPoint: { data: [{ coord: [fT[fT.length-1], s.warning_level_cms], value: 'Warning', symbolSize: 0 }],
+              label: { show: true, formatter: '⚠ 5-yr', color: '#ea580c', fontSize: 10, position: 'left' } } });
+        }
+        if (peakFlow > s.danger_level_cms * 0.2) {
+          series.push({ name: 'Danger (20-yr)', type: 'line', showSymbol: false,
+            data: [[hT[0], s.danger_level_cms], [fT[fT.length - 1], s.danger_level_cms]],
+            lineStyle: { color: '#dc2626', width: 1, type: 'dashed' }, itemStyle: { color: '#dc2626' }, z: 1,
+            markPoint: { data: [{ coord: [fT[fT.length-1], s.danger_level_cms], value: 'Danger', symbolSize: 0 }],
+              label: { show: true, formatter: '🚨 20-yr', color: '#dc2626', fontSize: 10, position: 'left' } } });
+        }
+        return series;
+      })()
     ]
   }, true);
 }
