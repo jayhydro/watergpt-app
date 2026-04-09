@@ -283,13 +283,11 @@ async function loadForecast() {
     m.setStyle({ color: c, fillColor: c, fillOpacity: 0.65, weight: 1.5, opacity: 0.85 });
   });
 
-  // Apply initial no-data filter
+  // Apply no-data filter
   applyNoDataFilter();
-
-  // Enable checkbox now that forecast is loaded
   document.getElementById('cbHideNoData').onchange = applyNoDataFilter;
 
-  // Stats (count only stations with history data)
+  // Stats (only stations with history data)
   const cnt = { low: 0, medium: 0, high: 0, very_high: 0 };
   fcData.stations.forEach(s => { if (hasHistoryData(s)) cnt[s.status]++; });
   const sb = document.getElementById('statsbar');
@@ -303,7 +301,6 @@ async function loadForecast() {
 
 // ═══ No-data filter ═══
 function hasHistoryData(fc) {
-  // Use has_history field if available, otherwise check actual data
   if (fc.has_history !== undefined) return fc.has_history;
   const h = fc.history_discharge_cms;
   if (!h || h.length === 0) return false;
@@ -318,11 +315,18 @@ function applyNoDataFilter() {
     if (!fc) return;
     if (hide && !hasHistoryData(fc)) {
       m.setStyle({ opacity: 0, fillOpacity: 0 });
-      m.setInteractive(false);
-    } else {
+      m.off('click');
+      m.unbindTooltip();
+      m._hidden = true;
+    } else if (m._hidden || !hide) {
       const c = SC[fc.status] || SC.low;
       m.setStyle({ opacity: 0.85, fillOpacity: 0.65, color: c, fillColor: c });
-      m.setInteractive(true);
+      if (m._hidden) {
+        m.on('click', () => onMarkerClick(m));
+        const nm = stNames[m._sid] || stMeta.stations[m._wi]?.name || m._sid;
+        m.bindTooltip(nm, { direction: 'top', offset: [0, -5] });
+        m._hidden = false;
+      }
     }
   });
 }
