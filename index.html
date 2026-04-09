@@ -115,6 +115,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);overflow:hid
 <div class="lctrl">
   <label><input type="checkbox" id="cbBasins" checked> Basins</label>
   <label><input type="checkbox" id="cbRivers" checked> Rivers</label>
+  <label><input type="checkbox" id="cbHideNoData" checked> Hide no-data</label>
 </div>
 
 <div class="legend">
@@ -163,6 +164,7 @@ const DATA_ROOT = 'data';
 let fcData = null, stMeta = null, stNames = {}, basinIdx = {};
 let echart = null, selMarker = null;
 let basinsLayer = null, riverLayer = null, hlLayer = null, markerLayer = null;
+let fcIdx = {};
 let corrMethod = 'ar';   // current correction method
 let curStation = null;    // current station data for redraw
 
@@ -264,7 +266,7 @@ async function loadForecast() {
   }
 
   // Index
-  const fcIdx = {};
+  fcIdx = {};
   fcData.stations.forEach(s => { fcIdx[s.station_id] = s; });
 
   // Header
@@ -281,6 +283,12 @@ async function loadForecast() {
     m.setStyle({ color: c, fillColor: c, fillOpacity: 0.65, weight: 1.5, opacity: 0.85 });
   });
 
+  // Apply initial no-data filter
+  applyNoDataFilter();
+
+  // Enable checkbox now that forecast is loaded
+  document.getElementById('cbHideNoData').onchange = applyNoDataFilter;
+
   // Stats
   const cnt = { low: 0, medium: 0, high: 0, very_high: 0 };
   fcData.stations.forEach(s => cnt[s.status]++);
@@ -291,6 +299,24 @@ async function loadForecast() {
   });
 
   toast('Forecast loaded ✓', 2000);
+}
+
+// ═══ No-data filter ═══
+function applyNoDataFilter() {
+  if (!fcData || !markerLayer) return;
+  const hide = document.getElementById('cbHideNoData').checked;
+  markerLayer.eachLayer(m => {
+    const fc = fcIdx[m._sid];
+    if (!fc) return;
+    if (hide && fc.has_history === false) {
+      m.setStyle({ opacity: 0, fillOpacity: 0 });
+      m.setInteractive(false);
+    } else {
+      const c = SC[fc.status] || SC.low;
+      m.setStyle({ opacity: 0.85, fillOpacity: 0.65, color: c, fillColor: c });
+      m.setInteractive(true);
+    }
+  });
 }
 
 // ═══ Click ═══
