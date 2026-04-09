@@ -289,9 +289,9 @@ async function loadForecast() {
   // Enable checkbox now that forecast is loaded
   document.getElementById('cbHideNoData').onchange = applyNoDataFilter;
 
-  // Stats
+  // Stats (count only stations with history data)
   const cnt = { low: 0, medium: 0, high: 0, very_high: 0 };
-  fcData.stations.forEach(s => cnt[s.status]++);
+  fcData.stations.forEach(s => { if (hasHistoryData(s)) cnt[s.status]++; });
   const sb = document.getElementById('statsbar');
   sb.innerHTML = '';
   [['very_high', 'Very High', '--red'], ['high', 'High', '--orange'], ['medium', 'Medium', '--yellow']].forEach(([k, l, c]) => {
@@ -302,13 +302,21 @@ async function loadForecast() {
 }
 
 // ═══ No-data filter ═══
+function hasHistoryData(fc) {
+  // Use has_history field if available, otherwise check actual data
+  if (fc.has_history !== undefined) return fc.has_history;
+  const h = fc.history_discharge_cms;
+  if (!h || h.length === 0) return false;
+  return h.some(v => v !== null && v !== undefined);
+}
+
 function applyNoDataFilter() {
   if (!fcData || !markerLayer) return;
   const hide = document.getElementById('cbHideNoData').checked;
   markerLayer.eachLayer(m => {
     const fc = fcIdx[m._sid];
     if (!fc) return;
-    if (hide && fc.has_history === false) {
+    if (hide && !hasHistoryData(fc)) {
       m.setStyle({ opacity: 0, fillOpacity: 0 });
       m.setInteractive(false);
     } else {
